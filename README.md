@@ -58,7 +58,7 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Central African Republic |              0 |                1 |             1 |
 | Chad                     |              0 |                1 |             1 |
 | Chile                    |            810 |             2355 |          3165 |
-| China                    |           5522 |             7820 |         13342 |
+| China                    |           5523 |             7819 |         13342 |
 | Colombia                 |            190 |              484 |           674 |
 | Cook Islands             |              0 |                1 |             1 |
 | Corsica                  |              8 |               18 |            26 |
@@ -80,10 +80,10 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Falkland Islands         |              1 |                2 |             3 |
 | Faroe Islands            |              2 |                3 |             5 |
 | Finland                  |            587 |              888 |          1475 |
-| France                   |           1221 |             2032 |          3253 |
+| France                   |           1222 |             2031 |          3253 |
 | French Guiana            |              2 |                1 |             3 |
 | Georgia                  |              4 |               23 |            27 |
-| Germany                  |           7073 |             9522 |         16595 |
+| Germany                  |           7074 |             9521 |         16595 |
 | Ghana                    |              2 |                4 |             6 |
 | Gibraltar                |              5 |                3 |             8 |
 | Greece                   |            526 |             1691 |          2217 |
@@ -206,7 +206,7 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Vietnam                  |              0 |                6 |             6 |
 | Zambia                   |              2 |                1 |             3 |
 | Zimbabwe                 |              0 |                3 |             3 |
-| Totals                   |          84111 |           115889 |        200000 |
+| Totals                   |          84114 |           115886 |        200000 |
 
 
 ## Usage
