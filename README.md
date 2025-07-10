@@ -197,7 +197,7 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | U.S. Virgin Islands      |              9 |               60 |            69 |
 | Ukraine                  |            333 |              437 |           770 |
 | United Arab Emirates     |             28 |               72 |           100 |
-| United Kingdom           |           4498 |            13233 |         17731 |
+| United Kingdom           |           4499 |            13232 |         17731 |
 | United States            |          26640 |            11681 |         38321 |
 | Uruguay                  |            150 |              300 |           450 |
 | Uzbekistan               |              2 |               10 |            12 |
@@ -206,7 +206,7 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Vietnam                  |              0 |                6 |             6 |
 | Zambia                   |              2 |                1 |             3 |
 | Zimbabwe                 |              0 |                3 |             3 |
-| Totals                   |          84110 |           115890 |        200000 |
+| Totals                   |          84111 |           115889 |        200000 |
 
 
 ## Usage
