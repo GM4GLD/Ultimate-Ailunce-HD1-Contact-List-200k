@@ -31,7 +31,7 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Armenia                  |              0 |                6 |             6 |
 | Aruba                    |              5 |               12 |            17 |
 | Ascension Island         |              0 |                1 |             1 |
-| Australia                |           1048 |             3489 |          4537 |
+| Australia                |           1049 |             3488 |          4537 |
 | Austria                  |            752 |             1780 |          2532 |
 | Azerbaijan               |              2 |                4 |             6 |
 | Bahamas                  |              1 |                7 |             8 |
@@ -206,7 +206,7 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Vietnam                  |              0 |                6 |             6 |
 | Zambia                   |              2 |                1 |             3 |
 | Zimbabwe                 |              0 |                3 |             3 |
-| Totals                   |          84109 |           115891 |        200000 |
+| Totals                   |          84110 |           115890 |        200000 |
 
 
 ## Usage
