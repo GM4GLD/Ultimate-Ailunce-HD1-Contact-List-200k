@@ -20108,6 +20108,9 @@ Private Call,EB4DET Antonio,Cuenca,Cuenca,Spain,2149397
 Private Call,EB3FFF Ramon,Figueres,Girona,Spain,2149398
 Private Call,EA4INK Pedro,Campo Real,Madrid,Spain,2149399
 Private Call,EA7LJS Pepe,Beas,Huelva,Spain,2149400
+Private Call,EA8DRQ Pepos,None,Santa Cruz de Tenerife,Spain,2149401
+Private Call,EA4IOH Azarias,Madrid,Madrid,Spain,2149402
+Private Call,EA4IMO Jose,None,Madrid,Spain,2149403
 Private Call,EA7JYO Daniel,Roquetas De Mar,Almeria,Spain,2149999
 Private Call,EA3IZP David,Rubi,Barcelona,Spain,2150000
 Private Call,HA8DJ Sandor,Bordany,,Hungary,2160001
@@ -38163,6 +38166,7 @@ Private Call,OK4IMK Martin,Praha,Prague,Czech Republic,2300423
 Private Call,OK2SPZ Josef,Napajedla,Zlin Region,Czech Republic,2300424
 Private Call,OK1MAT Vaclav,Zatec,Usti nad Labem Region,Czech Republic,2300425
 Private Call,OK1BK Branislav,Ceska Trebova,Pardubice Region,Czech Republic,2300426
+Private Call,OK1IBW Jan,Chlistov,Central Bohemian Region,Czech Republic,2300427
 Private Call,OK9DTZ David,Prague,,Czech Republic,2301001
 Private Call,OK3ZB Zdenek,Praha,,Czech Republic,2301002
 Private Call,OK1MX Milan,Praha,Prague,Czech Republic,2301003
@@ -39813,6 +39817,7 @@ Private Call,OE5AUH Alexander,Lambach,Oberoesterreich,Austria,2320865
 Private Call,OE5POO Paul,Lambach,Oberoesterreich,Austria,2320866
 Private Call,OE6KST Markus,Fischbach,Steiermark,Austria,2320867
 Private Call,OE5SRN Robert,Steyr,Oberoesterreich,Austria,2320868
+Private Call,OE3BEF Bernhard,Ebergassing,Niederoesterreich,Austria,2320869
 Private Call,OE1KBC Kurt,Wien,Wien,Austria,2321001
 Private Call,OE1KBC Kurt,Wien,Wien,Austria,2321002
 Private Call,OE1KBC Kurt,Wien,Wien,Austria,2321003
@@ -68645,6 +68650,7 @@ Private Call,R8CIO Leon,None,All Regions,Russia,2502312
 Private Call,UB8AHO Vjcheslav,Zlatoust,All Regions,Russia,2502313
 Private Call,UB3GFM Boris,Lipetsk,All Regions,Russia,2502314
 Private Call,RX3DIN Victor,Pushchino,All Regions,Russia,2502315
+Private Call,UB0AKX Andrey,Krasnoyarsk,All Regions,Russia,2502316
 Private Call,R3ABM Artem,,,Russia,2503001
 Private Call,R3ABM Artem,,,Russia,2503002
 Private Call,RK3AQG Ikrom,,,Russia,2503003
@@ -73541,6 +73547,8 @@ Private Call,SP4KST Krzysztof,Monki,podlaskie,Poland,2603506
 Private Call,SP8GPP Grzegorz,Rzeszow,podkarpackie,Poland,2603508
 Private Call,SP5HOT Mike,Warszawa,mazowieckie,Poland,2603509
 Private Call,SP1ZX Tomasz,Kolobrzeg,zachodniopomorskie,Poland,2603510
+Private Call,SP7FFY Leszek,Staszow,świętokrzyskie,Poland,2603511
+Private Call,SP9AMA Adam,Ustron,śląskie,Poland,2603512
 Private Call,SQ4HRL Przemyslaw,Ostroda,warmińsko-mazurskie,Poland,2604001
 Private Call,SQ4LWO Krzysztof,Olsztyn,warmińsko-mazurskie,Poland,2604002
 Private Call,SQ4IOI Krzysztof,Szczytno,warmińsko-mazurskie,Poland,2604004
@@ -73724,7 +73732,6 @@ Private Call,SQ7EHO Lukasz,Skierniewice,,Poland,2605058
 Private Call,SP8QER Radoslaw,Parczew,lubelskie,Poland,2605059
 Private Call,SP5XHC Adam,Warszawa,,Poland,2605060
 Private Call,SQ5PJ Patryk,Zielonka,mazowieckie,Poland,2605061
-Private Call,SP5XMX Jerzy,Warszawa,,Poland,2605063
 Private Call,SQ5SDM Marcin,Warszawa,,Poland,2605064
 Private Call,SQ5SDL Piotr,KO02KK,mazowieckie,Poland,2605065
 Private Call,SQ5PEX Adrian,WARSZAWA,,Poland,2605066
@@ -73787,7 +73794,6 @@ Private Call,SP5SMY Pawel,Siedlce,mazowieckie,Poland,2605147
 Private Call,SQ5SCV Piotr,Warszawa,,Poland,2605148
 Private Call,SQ5TM Tomasz,Warszawa,mazowieckie,Poland,2605151
 Private Call,SP5IOU Marcin,Warszawa,mazowieckie,Poland,2605153
-Private Call,SP5IWE Eugeniusz,Ciechanow,,Poland,2605154
 Private Call,SQ5AZY Bogdan,Dybow,,Poland,2605155
 Private Call,SP7VMX Marcin,Radom,,Poland,2605156
 Private Call,SP5MG Piotr,Warszawa,mazowieckie,Poland,2605157
@@ -74337,7 +74343,6 @@ Private Call,SQ7MHR Rafal,Konieczno,,Poland,2607102
 Private Call,SP7LB Tomasz,Bienidzice,,Poland,2607103
 Private Call,SP7VUQ Tomasz,Kielce,,Poland,2607104
 Private Call,SP7GJA Pawel,Lodz,łódzkie,Poland,2607105
-Private Call,SQ7TBD Wlodzimierz,Busko-Zdroj,świętokrzyskie,Poland,2607106
 Private Call,SQ7NHN Marek,Kutno,,Poland,2607107
 Private Call,SQ7AIS Marcin,Pabianice,,Poland,2607108
 Private Call,SP5RDH Ryszard,Lodz,,Poland,2607109
@@ -74966,6 +74971,7 @@ Private Call,SP9NSA Piotr,Nowy Sacz,,Poland,2609461
 Private Call,SQ9KEE Lukasz,Jaworzno,,Poland,2609462
 Private Call,SP9NG Andrzej,Kleczany,,Poland,2609463
 Private Call,SP9WTV Jakub,Krakow,,Poland,2609464
+Private Call,SP9CSE Alek,Krakow,małopolskie,Poland,2609465
 Private Call,SQ9BDJ Maciej,Tomice,,Poland,2609466
 Private Call,SP9VND Maciej,Krakow,,Poland,2609467
 Private Call,SQ9RNU Michal,Stara Wies,śląskie,Poland,2609468
@@ -89343,6 +89349,8 @@ Private Call,DH4CW Christian,Grafing,Bayern,Germany,2635101
 Private Call,DG6MFX Thomas,Karlskron,Bayern,Germany,2635102
 Private Call,DN9GD Sascha,Dortmund,Nordrhein-Westfalen,Germany,2635103
 Private Call,DK8AW Dirk,Algermissen,,Germany,2635104
+Private Call,DL1JAT Rajko,Cologne,Nordrhein-Westfalen,Germany,2635105
+Private Call,DO2KAW Angelika,Huerth,Nordrhein-Westfalen,Germany,2635106
 Private Call,DO8AE Andreas,Lollar,,Germany,2636001
 Private Call,DL6AAO Arthur,Witzenhausen,,Germany,2636002
 Private Call,DL4FBW Wolfgang,Korbach,,Germany,2636003
@@ -101557,6 +101565,8 @@ Private Call,TA2KYL Onur,None,Marmara Region,Turkiye,2867262
 Private Call,TB3EBM Muhammed,Manisa,Aegean Region,Turkiye,2867263
 Private Call,TB1SEW Sener,Kapakli,Marmara Region,Turkiye,2867264
 Private Call,TB8TUA Fethullah,Kahramanmaras,Mediterranean Region,Turkiye,2867265
+Private Call,TA5AUD Zehra,Konya,Central Anatolia Region,Turkiye,2867266
+Private Call,TB3EDU Emircan,Izmir,Aegean Region,Turkiye,2867267
 Private Call,TA2SEK Serhat,Yalova,Marmara Region,Turkiye,2867777
 Private Call,TB3GEI Seckin,IZMIR,Aegean Region,Turkiye,2867778
 Private Call,TA7YIL Alperen,Ordu,Black Sea Region,Turkiye,2867779
@@ -109372,6 +109382,7 @@ Private Call,VE7RJO Roberto,,British Columbia,Canada,3026485
 Private Call,VE7RJO Roberto,,British Columbia,Canada,3026486
 Private Call,VE7GCT Glenn,Mill Bay,British Columbia,Canada,3026487
 Private Call,VA3XWR Wai,Mississauga,Ontario,Canada,3026488
+Private Call,VE6SCL Steven,Stirling,Alberta,Canada,3026489
 Private Call,VA7RGM Robert,West Kelowna,British Columbia,Canada,3026912
 Private Call,VA6LTV Larry,Cochrane,Alberta,Canada,3026913
 Private Call,VE3ZWX James Bradley,London,Ontario,Canada,3026914
@@ -111046,6 +111057,7 @@ Private Call,XE2BI Carlos,Mexicali,Baja California Norte,Mexico,3340523
 Private Call,XE1DEL Delia,Coacalco,Mexico,Mexico,3340524
 Private Call,XE1ASJ Adolfo,Mexico City,Mexico City,Mexico,3340525
 Private Call,XE2MEM Mauricio,Reynosa,Tamaulipas,Mexico,3340526
+Private Call,XE2ATG Alma,Durango,Durango,Mexico,3340527
 Private Call,XE1QRP Oleg,Mexico City,Mexico City,Mexico,3341001
 Private Call,XE1QRP Oleg,Mexico City,Mexico City,Mexico,3341002
 Private Call,XE1YED Edgar,Mexico City,Mexico City,Mexico,3341003
@@ -116816,6 +116828,7 @@ Private Call,JE3NBF Masaru,None,Kinki,Japan,4402193
 Private Call,JF7KCB Yoshinori,Fukushima City  Fukushima,Tohoku,Japan,4402194
 Private Call,JA1CIN Tetsuya,Fuchu,Kanto,Japan,4402195
 Private Call,JL3ZQB Mataaimashitane,Kyoto,Kinki,Japan,4402196
+Private Call,JK7TBB Miyatani,Aizuwakamatsu,Tohoku,Japan,4402197
 Private Call,JP3KAF Ryusho,Nishinomiya,Kinki,Japan,4403001
 Private Call,JO3XPH Pascal,KYOTO,Kinki,Japan,4403002
 Private Call,JA3GQJ Shuji,Takatuki  Osaka,,Japan,4403003
@@ -119885,6 +119898,8 @@ Private Call,VR2UBQ Edwardjunior,Tin Hau,Hong Kong,Hong Kong,4540485
 Private Call,VR2YMC Eddy,Yuen Long,Hong Kong,Hong Kong,4540486
 Private Call,VR2UDX Chiu,Yuen Long,Hong Kong,Hong Kong,4540487
 Private Call,VR2ZAU Pui,Kowloon,Hong Kong,Hong Kong,4540488
+Private Call,VR2WXU Hoi,Kln,Hong Kong,Hong Kong,4540489
+Private Call,VR2YZD Tszyin,Hong Kong,Hong Kong,Hong Kong,4540490
 Private Call,VR2ML Matthew,Hong Kong,Hong Kong,China,4541002
 Private Call,XX9AS Alberto,Macau Sar,Macao,China,4550001
 Private Call,BH5HKD JI,JIAXING,Zhejiang Fujian Jiangxi,China,4550002
@@ -133216,6 +133231,16 @@ Private Call,BG6HMA Jianqiang,Changfeng Hefei,Henan Hubei Anhui,China,4613588
 Private Call,BA4SAG Zhaoyuan,Xuzhou,Shanghai Shandong Jiangsu,China,4613589
 Private Call,BI3BNQ Xiaojun,Binhai New Area,Shanxi Hebei Tianjin,China,4613590
 Private Call,BI3BPG Yansheng,Binhaixinqu,Shanxi Hebei Tianjin,China,4613591
+Private Call,BD3QID Wusi,Shijiazhuang,Shanxi Hebei Tianjin,China,4613592
+Private Call,BI3BOJ Chenguang,Tianjin,Shanxi Hebei Tianjin,China,4613593
+Private Call,BD6JAV Peiang,Zhengzhou,Henan Hubei Anhui,China,4613594
+Private Call,BH8GIF Tan,Banan District  Chongqing,Guizhou Sichuan ,China,4613595
+Private Call,BA8ADU Li,Chengdu,Guizhou Sichuan ,China,4613596
+Private Call,BI3MOG Ming,Handan,Shanxi Hebei Tianjin,China,4613597
+Private Call,BR7JAL Sihong,Jiangmen City,Hunan Guangdong Guangxi,China,4613598
+Private Call,BI7DDL Xianfeng,Changsha City,Hunan Guangdong Guangxi,China,4613599
+Private Call,BD3RWX Wei,Beijing,Beijing,China,4613600
+Private Call,BG2MTW Pengfei,None,Heilongjiang Jilin Liaoning,China,4613601
 Private Call,BV2EL James,New Taipei,Northern Taiwan,Taiwan,4660001
 Private Call,BM4AIK Chen,Kaohsiung,Southern Taiwan,Taiwan,4660002
 Private Call,BM3JAS chia chin,taoyuan,Northern Taiwan,Taiwan,4660003
@@ -133549,6 +133574,7 @@ Private Call,BM2GIC Wen,Taipei,Northern Taiwan,Taiwan,4660330
 Private Call,BM1CFQ Liu,Taiwan,Taipei,Taiwan,4660331
 Private Call,BM2IKB Jimmy,Taoyuan,Northern Taiwan,Taiwan,4660332
 Private Call,BV4MU Nori,Taichung,Central Taiwan,Taiwan,4660333
+Private Call,BM8CVE Tsungting,Taichung,Central Taiwan,Taiwan,4660334
 Private Call,BX2ABT Hans,Taoyuan City,Taipei,Taiwan,4661001
 Private Call,BU2EA Yngwie,Taipei,Taipei,Taiwan,4661002
 Private Call,BV2NT Lee,Taipei,Taipei,Taiwan,4661003
@@ -134674,6 +134700,7 @@ Private Call,9W2PIS Hafiz,Puchong Selangor,West Malaysia,Malaysia,5020698
 Private Call,9W3ISA Mohd,Kota Samarahan Sarawak,West Malaysia,Malaysia,5020699
 Private Call,9W2FKE Fikri,Sungai Petani,East Malaysia,Malaysia,5020700
 Private Call,9W4GBF Gateway,Batu Ferringgi,West Malaysia,Malaysia,5020701
+Private Call,9W6MSU Masetang,Pulau Indah,West Malaysia,Malaysia,5020702
 Private Call,9M2AOC Alexander,Bayan Lepas,,Malaysia,5022001
 Private Call,9M2SF See,ISland Glades,,Malaysia,5022002
 Private Call,9M2PEN Soon,Taman Sri Nibong,,Malaysia,5022003
@@ -150312,6 +150339,7 @@ Private Call,LU2EBP Miguel,Zarate,Ciudad de Buenos Aires,Argentina Republic,7221
 Private Call,LU2EMO Adrian,Temperley,Buenos Aires,Argentina Republic,7221775
 Private Call,LU1HT Norberto,Portena,Cordoba,Argentina Republic,7221776
 Private Call,LW6EEU Nestor,Punta Alta  Buenos Aires  Argentina,Buenos Aires,Argentina Republic,7221777
+Private Call,LU1AMX Juan,Ciudad Autonoma De Buenos Aires,Ciudad de Buenos Aires,Argentina Republic,7221778
 Private Call,LW1HBD Julio Eduardo,,Cordoba,Argentina Republic,7222001
 Private Call,LU6HAE Lino,Cavanagh Cordoba,Cordoba,Argentina Republic,7222003
 Private Call,LU6HAE Lino,Cavanagh Cordoba,Cordoba,Argentina Republic,7222004
@@ -156658,6 +156686,10 @@ Private Call,PU6PRS Renilson,Dias Davila,Bahia,Brazil,7246351
 Private Call,PY3PS Pietro,Cidade Sao Gabriel,Rio Grande do Sul,Brazil,7246352
 Private Call,PU4ADN Joao,Araguari,Minas Gerais,Brazil,7246353
 Private Call,PU2URZ Ruziel,Aracariguama,Sao Paulo,Brazil,7246354
+Private Call,PU2ELH Felipe,,Distrito Federal,Brazil,7246355
+Private Call,PU2HIT Wilkerson,Corumba,Mato Grosso do Sul,Brazil,7246356
+Private Call,PU1NEN Jonathan,Parque Guararapes Miguel Pereira,Rio de Janeiro,Brazil,7246357
+Private Call,PU2VSO Fernando,Sao Paulo,Sao Paulo,Brazil,7246358
 Private Call,PU7MKI Fabrizio,Fortaleza,Ceara,Brazil,7247001
 Private Call,PU7LSB Lucivaldo Sousa,Mossoro - Rio Grande,,Brazil,7247002
 Private Call,PT7KO Junior,Fortaleza,Ceara,Brazil,7247003
@@ -159544,6 +159576,7 @@ Private Call,CA6VVJ Marcelo,Villarrica,La Araucania,Chile,7302839
 Private Call,CD2TQR Alejandro,Paihuano,Coquimbo,Chile,7302840
 Private Call,CE2GSU Guillermo,Llay-Llay,Valparaiso,Chile,7302841
 Private Call,CE6PHB Mario,Villarrica,La Araucania,Chile,7302842
+Private Call,CA3PYX Armando,Quilpue,Valparaiso,Chile,7302843
 Private Call,CE3SOC Raul,Santiago,Reg.Metr. de Santiago,Chile,7303001
 Private Call,CE3YP Jorge,Santiago,Reg.Metr. de Santiago,Chile,7303002
 Private Call,CE3BFE Mario,Lampa,Reg.Metr. de Santiago,Chile,7303003
@@ -160560,6 +160593,8 @@ Private Call,HK3N Hernan,Bogota,Cundinamarca,Colombia,7320673
 Private Call,HJ3WWA William,Facatativa,Cundinamarca,Colombia,7320674
 Private Call,HJ7WDR William,Barrancabermeja,Santander,Colombia,7320675
 Private Call,HJ3DSN Alejandro,Bogota,Cundinamarca,Colombia,7320676
+Private Call,HJ1DLT Deivys,Barrio Porvenir Barranquilla Departamento Del Atla,Atlantico,Colombia,7320677
+Private Call,HJ7HJQ Jose,Bucaramanga,Santander,Colombia,7320678
 Private Call,HK6CAN William,Neiva,Huila,Colombia,7321001
 Private Call,YV4VV Radio Club,Valencia,,Venezuela,7340004
 Private Call,YY6AMS Arturo,Barcelona,Anzoategui,Venezuela,7340005
@@ -161850,6 +161885,7 @@ Private Call,CX9RPV Claudio,Piriapolis,Maldonado,Uruguay,7480352
 Private Call,CX9FJ Cesar,Carmelo,Colonia,Uruguay,7480353
 Private Call,CX1DW Carlos,Shangrila,Canelones,Uruguay,7480354
 Private Call,CX5CHS Santiago,La Figurita  Montevideo,Montevideo,Uruguay,7480355
+Private Call,CX1CS Gonzalo,Montevideo,Montevideo,Uruguay,7480356
 Private Call,CX2AL Hipolito,Montevideo,Montevideo,Uruguay,7481001
 Private Call,CX1RK Miguel Angel,Maldonado,Maldonado,Uruguay,7481002
 Private Call,CX9BX Edgardo,Montevideo,Montevideo,Uruguay,7481003
@@ -162267,6 +162303,7 @@ Private Call,WT4E David,Counce,Tennessee,United States,3100074
 Private Call,W0TXN Jeff,College Station,Texas,United States,3100075
 Private Call,W8YRC Michael,Lapeer,Michigan,United States,3100076
 Private Call,KA1OLA David,Lowell,Massachusetts,United States,3100078
+Private Call,K9CPO Nathan,Kenosha,Wisconsin,United States,3100090
 Private Call,W9ADS Andrew,Urbana,Illinois,United States,3100101
 Private Call,N7ABB James,SUN CITY WEST,Arizona,United States,3100107
 Private Call,K7EDT Edward,Gilbert,Arizona,United States,3100108
@@ -162580,6 +162617,7 @@ Private Call,K6EAR E,Santa Rosa,California,United States,3101944
 Private Call,W9NB Nick,New Harmony,Indiana,United States,3101949
 Private Call,AI5D Donald D,Powhatan,Arkansas,United States,3101958
 Private Call,KB1SLN Christopher,Harwinton,Connecticut,United States,3101959
+Private Call,K1JFJ Kristian,Monterey,Virginia,United States,3101970
 Private Call,WD8MVU Timothy P,New Port Richey,Florida,United States,3101972
 Private Call,W1AEX Rob,East Granby,Connecticut,United States,3101978
 Private Call,KG5PJH Steven,Chickasha,Oklahoma,United States,3101982
@@ -162628,6 +162666,7 @@ Private Call,WA0RSX William C,Grand Junction,Colorado,United States,3102203
 Private Call,W7MIN Gary W,Claypool,Arizona,United States,3102204
 Private Call,KN4ITR Timothy N,Winter Haven,Florida,United States,3102207
 Private Call,KB3MXM Martin J,Owings Mills,Maryland,United States,3102208
+Private Call,N3ETV Charles A,New Castle,Pennsylvania,United States,3102210
 Private Call,N9TMP Raphael J,Indianapolis,Indiana,United States,3102219
 Private Call,N3ETC William,South Daytona,Florida,United States,3102229
 Private Call,K0MIZ James S,Columbia,Missouri,United States,3102232
@@ -162725,6 +162764,7 @@ Private Call,K0ION Glenn C,Chillicothe,Missouri,United States,3102834
 Private Call,W9GMK Gary M,Spring Hill,Tennessee,United States,3102843
 Private Call,N0YKM Paul L,Maple Grove,Minnesota,United States,3102846
 Private Call,AB9FT Josh J,Sheboygan,Wisconsin,United States,3102854
+Private Call,KB7THL Michael,Greencastle,Pennsylvania,United States,3102860
 Private Call,KE3TW Stephen,White Hall,Maryland,United States,3102867
 Private Call,KP4IP Frank,Millersville,Maryland,United States,3102878
 Private Call,KC3KRC Carol Ann,Wilkes Barre,Pennsylvania,United States,3102905
@@ -162744,6 +162784,7 @@ Private Call,AD0TZ Ryan A,Manhattan,Kansas,United States,3102994
 Private Call,W5BH Mitchell A,Pocahontas,Arkansas,United States,3102997
 Private Call,AE4BT Curtis,Johnson City,Tennessee,United States,3103001
 Private Call,KB6BA Oliver,Sunnyvale,California,United States,3103022
+Private Call,K4BNA Gary L,Hendersonville,Tennessee,United States,3103025
 Private Call,AC0BQ Johnny,Lebo,Kansas,United States,3103026
 Private Call,KC4TWO Kent,Knoxville,Tennessee,United States,3103027
 Private Call,KK6GST Arturo,Tustin,California,United States,3103034
@@ -162770,6 +162811,7 @@ Private Call,W8YUL Robert F,Jackson,Ohio,United States,3103199
 Private Call,K2MUD Michael J,Staten Island,New York,United States,3103207
 Private Call,K7AEG James M,Reno,Nevada,United States,3103208
 Private Call,KM7ISH Susanne,Rainier,Washington,United States,3103209
+Private Call,KE0OJW Garrett,Denver,Colorado,United States,3103216
 Private Call,WD6FDD Richard C,Jacksonville,Florida,United States,3103224
 Private Call,N8JLK Jerry,Parma,Ohio,United States,3103229
 Private Call,KG4SBG Dennis R,Pt Charlotte,Florida,United States,3103234
@@ -164002,6 +164044,7 @@ Private Call,KC1CK Allan Macdonald,Wallingford,Connecticut,United States,3109513
 Private Call,KB1SL Leslie J,Prospect,Connecticut,United States,3109517
 Private Call,KC1FYI Nick,Wethersfield,Connecticut,United States,3109527
 Private Call,KC1JDP James D,Wethersfield,Connecticut,United States,3109528
+Private Call,WA1UZO Michael,New Milford,Connecticut,United States,3109529
 Private Call,KC1FNM James E,Avon,Connecticut,United States,3109530
 Private Call,KC1JDP James D,Wethersfield,Connecticut,United States,3109536
 Private Call,K1AWR Alan W,Windsor Locks,Connecticut,United States,3109539
@@ -164621,6 +164664,7 @@ Private Call,KB5FHK Thomas L,Fort Walton Beach,Florida,United States,3112825
 Private Call,KV4SM Sergio,Tampa,Florida,United States,3112826
 Private Call,KN4VG Michael,summerfield,Florida,United States,3112832
 Private Call,WA6POZ Gerald F,Tallahassee,Florida,United States,3112837
+Private Call,KG4JSZ James r,Haines City,Florida,United States,3112840
 Private Call,KN4NN John A,Crawfordville,Florida,United States,3112842
 Private Call,KD4MOJ Douglas B,Tallahassee,Florida,United States,3112851
 Private Call,K4BNF Ben L,Tallahassee,Florida,United States,3112854
@@ -165015,6 +165059,7 @@ Private Call,KD5UEW William H,Waco,Texas,United States,3114923
 Private Call,KG5STF Richie W,Cypress,Texas,United States,3114925
 Private Call,W2ORT Matthew,Syracuse,New York,United States,3114931
 Private Call,W4MHI Mihai,Issaquah,Washington,United States,3114935
+Private Call,KR4YON Chris,Rincon,Georgia,United States,3114944
 Private Call,KR4YON Chris,Rincon,Georgia,United States,3114945
 Private Call,KF7EUO Timothy A,Mesa,Arizona,United States,3114950
 Private Call,N0CAL Mark E,Willard,Missouri,United States,3114955
@@ -166198,6 +166243,7 @@ Private Call,AD1U Angel,San Jose,California,United States,3120956
 Private Call,N5XET Robert,Broken Arrow,Oklahoma,United States,3120968
 Private Call,AK5V James C,Fulshear,Texas,United States,3120971
 Private Call,N0NFP Albert,Elkland,Missouri,United States,3120976
+Private Call,KC3MDC Bryan,Catonsville,Maryland,United States,3120977
 Private Call,W5HQJ Raymond,Conroe,Texas,United States,3120987
 Private Call,KD9EOT Igor,Niles,Illinois,United States,3120990
 Private Call,KC7JB James M,Everson,Washington,United States,3120991
@@ -168674,6 +168720,7 @@ Private Call,W1JPP Joseph P,East Greenwich,Rhode Island,United States,3133502
 Private Call,KO4T Jamie,Morganton,North Carolina,United States,3133507
 Private Call,KD2RCW Peter W,New Hartford,New York,United States,3133517
 Private Call,K0SUS Kenneth P,ROSWELL,New Mexico,United States,3133522
+Private Call,KC0AVN Joe,Harpers Ferry,Iowa,United States,3133525
 Private Call,N0NS Joe,Cedar Rapids,Iowa,United States,3133526
 Private Call,N9XRM Robert,Evansville,Indiana,United States,3133527
 Private Call,KN6AND Kerry,Milpitas,California,United States,3133530
@@ -169209,6 +169256,7 @@ Private Call,W2EH Jose,Harker Heights,Texas,United States,3136105
 Private Call,W2PW Pres,Patchogue,New York,United States,3136106
 Private Call,KC2CWT Robert,Carmel,New York,United States,3136109
 Private Call,WA2JNF Stuart,Brooklyn,New York,United States,3136112
+Private Call,W2DOD Alexander,New York,New York,United States,3136113
 Private Call,KD2GZX Alexander,Huntington Station,New York,United States,3136118
 Private Call,K2JRC Jerry,NY,New York,United States,3136121
 Private Call,N2PPN Richard,Levittown,New York,United States,3136125
@@ -170604,6 +170652,7 @@ Private Call,AA3SO Robert D,Youngwood,Pennsylvania,United States,3142795
 Private Call,AA3SO Robert D,Youngwood,Pennsylvania,United States,3142796
 Private Call,W3WOW Francis J,Easton,Pennsylvania,United States,3142809
 Private Call,WA3QJL Gerry M,Steelton,Pennsylvania,United States,3142815
+Private Call,N3CNJ David J,Delta,Pennsylvania,United States,3142817
 Private Call,KB3UDY Mike D,King Of Prussia,Pennsylvania,United States,3142824
 Private Call,W3EMT Jason,Montgomeryville,Pennsylvania,United States,3142825
 Private Call,WO3T Carmen J,Williamsburg,Pennsylvania,United States,3142830
@@ -170654,6 +170703,7 @@ Private Call,WW6DSA David S,Davis,California,United States,3143069
 Private Call,K4PDQ Dennis W,Montgomery,Alabama,United States,3143071
 Private Call,W5EMK Erick,Fort Worth,Texas,United States,3143076
 Private Call,KU6V Don H,San Martin,California,United States,3143086
+Private Call,W3TFI Robert,Pleasant Run,Ohio,United States,3143099
 Private Call,KY4KZ Carson M,Hoover,Alabama,United States,3143110
 Private Call,N0PXT Shane A,Hugo,Minnesota,United States,3143117
 Private Call,WA8YXY Tim,Las Vegas,Nevada,United States,3143118
@@ -171456,6 +171506,7 @@ Private Call,N1OMG Ronald,Kodak,Tennessee,United States,3147632
 Private Call,KB4JHU Michael D,Tullahoma,Tennessee,United States,3147634
 Private Call,KF4IVV Joseph E,Oak Ridge,Tennessee,United States,3147638
 Private Call,KE4LQY Alvis E,Chattanooga,Tennessee,United States,3147639
+Private Call,KM4ZIZ Jackie C,Sevierville,Tennessee,United States,3147643
 Private Call,WB4VFL Matthew G,Oak Ridge,Tennessee,United States,3147653
 Private Call,K4IDE Eric,Grovetown,Georgia,United States,3147659
 Private Call,N8NUT Karl,Franklin,Tennessee,United States,3147665
@@ -171854,6 +171905,7 @@ Private Call,W2RWM Robert,North Babylon,New York,United States,3149794
 Private Call,N5RAE Robert A,Cypress,Texas,United States,3149800
 Private Call,K4WRC Wellington,Wellington,Florida,United States,3149803
 Private Call,WD2AFW Alfred J,Staten Island,New York,United States,3149805
+Private Call,WB4LHM Stephen D,,Florida,United States,3149807
 Private Call,KK4UWF Bradley A,Scottsboro,Alabama,United States,3149813
 Private Call,KC6QLS Paul,Lakeside,California,United States,3149814
 Private Call,K6DRF Douglas R,La Mesa,California,United States,3149852
@@ -172288,6 +172340,7 @@ Private Call,KB8UFD Michael A,Rockford,Michigan,United States,3152239
 Private Call,WB8VCR Warren T,Wooster,Ohio,United States,3152250
 Private Call,ND0SX Robert J,Grand Forks,North Dakota,United States,3152259
 Private Call,WA4BLM John L,Conyers,Georgia,United States,3152263
+Private Call,KI4ETY Christopher D,Pelzer,South Carolina,United States,3152271
 Private Call,KE8MRQ John H,Mansfield,Ohio,United States,3152280
 Private Call,KC3IT Donald F,Pigeon Forge,Tennessee,United States,3152289
 Private Call,K1GMM Steven C,Danby,Vermont,United States,3152295
@@ -172417,6 +172470,7 @@ Private Call,KA0WJZ Robert A,Vinton,Iowa,United States,3152965
 Private Call,WD4SEY John H,Cropwell,Alabama,United States,3152968
 Private Call,K7MR Rob,Troutdale,Oregon,United States,3152999
 Private Call,KK7TR Andrew,Sammamish,Washington,United States,3153006
+Private Call,KG7CDH Michael,Bellevue,Washington,United States,3153009
 Private Call,K7SLB Spencer,Seattle,Washington,United States,3153023
 Private Call,W1CDO John,Port Ludlow,Washington,United States,3153024
 Private Call,AE7WZ Anthony,Bellevue,Washington,United States,3153025
@@ -173420,6 +173474,7 @@ Private Call,KD7QPC Andrew W,Eugene,Oregon,United States,3158380
 Private Call,KB5RNJ Hanford J,Corpus Christi,Texas,United States,3158400
 Private Call,KF5WJ Jack T,Denton,Texas,United States,3158426
 Private Call,KB5AKO Victor,Bluff Dale,Texas,United States,3158435
+Private Call,KG5TIL Loel Garza,Mcallen,Texas,United States,3158438
 Private Call,KG5WOT David C,Lubbock,Texas,United States,3158439
 Private Call,KK4TGK Timothy J,Alamo,Texas,United States,3158465
 Private Call,K3ALW James M,Royal Palm Beach,Florida,United States,3158466
@@ -173984,6 +174039,7 @@ Private Call,KC6RHE Don T,El Segundo,California,United States,3161261
 Private Call,KE6PSI Christi L,El Segundo,California,United States,3161262
 Private Call,KN4CCQ Preston D,Rockvale,Tennessee,United States,3161270
 Private Call,KS4JCD Jimmy C,Lebanon,Tennessee,United States,3161271
+Private Call,K3JAS James A,Greensburg,Pennsylvania,United States,3161277
 Private Call,AJ0SE Jose A,Mountain View,California,United States,3161278
 Private Call,KB6RKO Gary W,Woodland Hills,California,United States,3161279
 Private Call,N6CJT Chris J,Irvine,California,United States,3161280
@@ -174307,6 +174363,7 @@ Private Call,K4PAT Harry P,Tarkio,Missouri,United States,3162812
 Private Call,K4LT John M,Jensen Beach,Florida,United States,3162813
 Private Call,W4ZWB Zack,Nashville,Tennessee,United States,3162814
 Private Call,K4CIH Jon A,Griffin,Georgia,United States,3162816
+Private Call,N4XV Jonathan,Nashville,North Carolina,United States,3162823
 Private Call,K5CCP Patrick H,Broken Arrow,Oklahoma,United States,3162824
 Private Call,N9MVF Kenneth M,Lebanon,Tennessee,United States,3162828
 Private Call,W6MDA Michael,Apple Valley,California,United States,3162834
@@ -175463,6 +175520,7 @@ Private Call,N5TIM John R,Allen,Texas,United States,3168484
 Private Call,NY4W Robert C,Annandale,Virginia,United States,3168486
 Private Call,WJ8V Roger D,Caro,Michigan,United States,3168495
 Private Call,K2CYS Cyril,Ocean Township,New Jersey,United States,3168497
+Private Call,K4FLB Harold D,Salisbury,North Carolina,United States,3168502
 Private Call,WA3MIX Louis J,Brigantine,New Jersey,United States,3168504
 Private Call,KJ7PIM William,Chandler,Arizona,United States,3168505
 Private Call,AJ5C Robert N,Harrison,Arkansas,United States,3168516
@@ -176290,6 +176348,7 @@ Private Call,KD0NPT William A,Aurora,Colorado,United States,3173030
 Private Call,WB6BDD Julian F,Pleasanton,California,United States,3173036
 Private Call,N4GNG Gerald N,Abingdon,Virginia,United States,3173037
 Private Call,KA0RLR Rick L,Omaha,Nebraska,United States,3173039
+Private Call,K2MR Ronald G,Wallkill,New York,United States,3173041
 Private Call,W1SD Stephen M,West Newbury,Massachusetts,United States,3173044
 Private Call,N4RQJ Robert C,Cuchara,Colorado,United States,3173046
 Private Call,N5YAI John W,Justin,Texas,United States,3173047
@@ -176466,6 +176525,7 @@ Private Call,KA7UIS Le Roy F,Carson City,Nevada,United States,3173952
 Private Call,AB0JC Kevin D,Leachville,Arkansas,United States,3173953
 Private Call,KA7AJQ Sheila M,Carson City,Nevada,United States,3173954
 Private Call,KO4KEY Blake,Charlottesville,Virginia,United States,3173959
+Private Call,KO4JZR James C,APEX,North Carolina,United States,3173971
 Private Call,KC4AC Corey,Pikeville,Tennessee,United States,3173978
 Private Call,KE5MGA Raul,Brownsville,Texas,United States,3173979
 Private Call,KG5RWA Robby W,Shreveport,Louisiana,United States,3173980
@@ -177019,6 +177079,7 @@ Private Call,K3KR Jeffrey,Derry,Pennsylvania,United States,3176868
 Private Call,WB0OLX Craig,Davenport,Iowa,United States,3176873
 Private Call,KE0RUZ Chad,Carthage,Missouri,United States,3176877
 Private Call,K4LOB Sean,Fort Pierce,Florida,United States,3176879
+Private Call,W7KHW Walter,Nampa,Idaho,United States,3176883
 Private Call,K6BBH Rigoberto,Bakersfield,California,United States,3176885
 Private Call,KG7BPO Brandon,Corvallis,Oregon,United States,3176887
 Private Call,W5ASU Charles,Jonesboro,Arkansas,United States,3176892
@@ -177559,6 +177620,7 @@ Private Call,KF0FBL Christopher,Council Bluffs,Iowa,United States,3179556
 Private Call,K6CTQ Steve,Wellington,Nevada,United States,3179562
 Private Call,KC3RPQ Cory,Pittsburgh,Pennsylvania,United States,3179566
 Private Call,KO4PED Jacob,Memphis,Tennessee,United States,3179569
+Private Call,KF8XW Timothy,Akron,Ohio,United States,3179583
 Private Call,N1ONE William,Westminster,Massachusetts,United States,3179584
 Private Call,N6TTF Jeffrey,Murrieta,California,United States,3179585
 Private Call,KB7SIK Ryan,Deary,Idaho,United States,3179591
@@ -177679,6 +177741,7 @@ Private Call,K5XT Andy,Little Rock,Arkansas,United States,3180157
 Private Call,K1DPE Louis,Farmington,New Hampshire,United States,3180163
 Private Call,KD9MGZ Robert,Churubusco,Indiana,United States,3180167
 Private Call,AG7U Jerry,Parker,Colorado,United States,3180178
+Private Call,KI5POA David,,Arkansas,United States,3180181
 Private Call,KL7JKR James,Clifton,Colorado,United States,3180183
 Private Call,KN4VJR David,Farmville,North Carolina,United States,3180194
 Private Call,AC5QX Bryan,Conroe,Texas,United States,3180201
@@ -178265,6 +178328,7 @@ Private Call,WG8G Morris,Jackson,Tennessee,United States,3183097
 Private Call,W3GLQ Louis,Stevensville,Maryland,United States,3183107
 Private Call,KO4LAZ Duane,Otto,North Carolina,United States,3183109
 Private Call,W3JP Luke,Mount Airy,Maryland,United States,3183126
+Private Call,AC4NP Michael,Gastonia,North Carolina,United States,3183129
 Private Call,KD2WQS Grzegorz,Elmwood Park,New Jersey,United States,3183135
 Private Call,KK9PAW Johannes I,San Diego,California,United States,3183137
 Private Call,KN6PWH Tyrone,Redlands,California,United States,3183146
@@ -178726,6 +178790,7 @@ Private Call,KC3SRB Kent,Pocono Manor,Pennsylvania,United States,3185438
 Private Call,KJ6DLF Christopher,Fairfield,California,United States,3185444
 Private Call,KI7UHV Mark,Vancouver,Washington,United States,3185450
 Private Call,KJ6ZVJ Anthony,La Mesa,California,United States,3185460
+Private Call,AD4HS Dave,Henderson,Nevada,United States,3185464
 Private Call,N8BIF Terry,Centennial,Colorado,United States,3185469
 Private Call,WB4JCX Virginia Beach Dmr Repeater Group,Virginia Beach,Virginia,United States,3185472
 Private Call,WB2MBV Stephen,West Palm Beach,Florida,United States,3185474
@@ -178748,6 +178813,7 @@ Private Call,K9DED Kyle,Pittsville,Wisconsin,United States,3185570
 Private Call,KC9NWD Robert,West Peoria,Illinois,United States,3185574
 Private Call,W8PCP Paul,Sunbury,Ohio,United States,3185588
 Private Call,WG2S Thomas,Manchester,New Jersey,United States,3185597
+Private Call,N4TOP Tony,Warner Robins,Georgia,United States,3185602
 Private Call,KN5DS Dale,Tomball,Texas,United States,3185603
 Private Call,KE0ISV Tyler,Cherry Hill,New Jersey,United States,3185606
 Private Call,AL1F Joseph,Tyler,Texas,United States,3185610
@@ -179031,6 +179097,7 @@ Private Call,KO4VIQ Paul,Marietta,Georgia,United States,3187001
 Private Call,N9TCD Louis,Terre Haute,Indiana,United States,3187002
 Private Call,N0FRC Christopher,Gower,Missouri,United States,3187017
 Private Call,KD2YKY Dane,Jackson,New Jersey,United States,3187023
+Private Call,K2EMD Karlo Paolo,Ontario,Ohio,United States,3187024
 Private Call,K0CCP Michael,Wheaton,Kansas,United States,3187025
 Private Call,KC9PUT Mark,Camden,Michigan,United States,3187027
 Private Call,W4MOV IEEE Move,Chapel Hill,North Carolina,United States,3187028
@@ -179885,6 +179952,7 @@ Private Call,K0EKL David,Ely,Minnesota,United States,3190873
 Private Call,KI5UWK Dewey,Euless,Texas,United States,3190874
 Private Call,WB2SQM Eric,New York,New York,United States,3190883
 Private Call,W6PS Philip,Glen Ellen,California,United States,3190885
+Private Call,K4VXP Nicholas,Georgetown,Kentucky,United States,3190896
 Private Call,KD2ONL Tim,Holland,New York,United States,3190906
 Private Call,K9FZJ David,Naples,Florida,United States,3190910
 Private Call,K5WBK Charles,Mexia,Texas,United States,3190911
@@ -180553,6 +180621,7 @@ Private Call,KC3UHX Timothy,Peckville,Pennsylvania,United States,3193936
 Private Call,KK6ALF Ross,Reno,Nevada,United States,3193950
 Private Call,KB0ROT Kenneth,Madison,South Dakota,United States,3193953
 Private Call,KB7MIH Ben,Salt Lake City,Utah,United States,3193969
+Private Call,KN6TSD Miguel,North Hills,California,United States,3193977
 Private Call,KK4ODA Facundo,Atlanta,Georgia,United States,3193989
 Private Call,KN6PBC Bobby,Spring Valley,California,United States,3193995
 Private Call,N8EMA Jeff,Beverly Hills,Florida,United States,3193998
@@ -180961,6 +181030,7 @@ Private Call,KC1QZH Richard,Newport,New Hampshire,United States,3195806
 Private Call,N0HYG Jasper,Kansas City,Kansas,United States,3195808
 Private Call,KQ4CAZ Stephen,Southport,North Carolina,United States,3195811
 Private Call,AA6JT John,San Diego,California,United States,3195815
+Private Call,KI6NRR Brian,Santa Clarita,California,United States,3195820
 Private Call,K1FAZ Paul,Magnolia,Delaware,United States,3195831
 Private Call,K6VTY Kevin,Ridgecrest,California,United States,3195832
 Private Call,KE8WAY Ryan R,Martin,Ohio,United States,3195834
@@ -182208,6 +182278,7 @@ Private Call,KD2JJQ Juan,Parsippany,New Jersey,United States,3200683
 Private Call,KQ4HZZ Alex,Norfolk,Virginia,United States,3200686
 Private Call,K3SAD George,Loveland,Colorado,United States,3200689
 Private Call,KJ5BMY Daniel,Garland,Texas,United States,3200691
+Private Call,KG5YMD Robert,Callahan,Florida,United States,3200694
 Private Call,W0GX George,Mandan,North Dakota,United States,3200702
 Private Call,AG7AZ Thomas,Mesa,Arizona,United States,3200704
 Private Call,KC8VSU Toby,Rapid City,Michigan,United States,3200717
@@ -182283,6 +182354,7 @@ Private Call,KQ4JRS Leo,Glen Allen,Virginia,United States,3200985
 Private Call,N2KJ Joravarsinh,Ewing,New Jersey,United States,3200991
 Private Call,W6WJ Dave,Grover Beach,California,United States,3200994
 Private Call,KK7NNG Justin,Bountiful,Utah,United States,3200998
+Private Call,W2MDK Matthew,Sound Beach,New York,United States,3201012
 Private Call,KE2BPP Elliot,Brooklyn,New York,United States,3201016
 Private Call,K0BVW Bret,Saint Louis,Missouri,United States,3201017
 Private Call,KK7JRI John,Hammond,Oregon,United States,3201022
@@ -183239,6 +183311,7 @@ Private Call,K7SWS Steven,Hamilton,Montana,United States,3204356
 Private Call,WB4DES David,Moseley,Virginia,United States,3204357
 Private Call,KJ5BSB Robert,Lucedale,Mississippi,United States,3204358
 Private Call,K3AUK Adam,Mechanicsburg,Pennsylvania,United States,3204364
+Private Call,KF7THZ Patrick,Battle Ground,Washington,United States,3204366
 Private Call,KE0DFA Adam,Grand Island,Nebraska,United States,3204367
 Private Call,KE8YKG Tobias,Cincinnati,Ohio,United States,3204371
 Private Call,N4IMV William,Brunswick,Georgia,United States,3204379
@@ -183403,6 +183476,7 @@ Private Call,W1YTQ Christopher,Lexington,Massachusetts,United States,3204903
 Private Call,KN4LFE Corey,St Augustine,Florida,United States,3204905
 Private Call,KJ5DWY Jesse,COWETA,Oklahoma,United States,3204906
 Private Call,K6NKC Dan,San Diego,California,United States,3204907
+Private Call,KE8YWB Steven,Morrow,Ohio,United States,3204908
 Private Call,KC1THJ Chad,Derry,New Hampshire,United States,3204911
 Private Call,N4UKM Russell,Pembroke Pines,Florida,United States,3204920
 Private Call,W4IPD Dirk,Edmond,Oklahoma,United States,3204921
@@ -184860,6 +184934,7 @@ Private Call,KQ4SYW Patrick,Waynesville,North Carolina,United States,3209293
 Private Call,KD7PAH Aaron,Yelm,Washington,United States,3209294
 Private Call,KQ4OQL Dalton,Auburn,Kentucky,United States,3209295
 Private Call,KQ4TZM Jennifer,Hopkinsville,Kentucky,United States,3209296
+Private Call,AD2FB Blakely,Corning,New York,United States,3209299
 Private Call,KQ4TLT Juan,Blackshear,Georgia,United States,3209300
 Private Call,KF5BA Robert,Long Beach,Mississippi,United States,3209305
 Private Call,KD5UPP Theron,Brandon,Mississippi,United States,3209306
@@ -185243,6 +185318,7 @@ Private Call,KQ4EKW Julio,Miami,Florida,United States,3210266
 Private Call,W0ALI Ali,Arlington,Texas,United States,3210268
 Private Call,KC1VHD Thomas,Northborough,Massachusetts,United States,3210271
 Private Call,KE8WKQ David,Madison Hts,Michigan,United States,3210273
+Private Call,KF8BIB Glen,Laura,Ohio,United States,3210274
 Private Call,KQ4WES Wes,Newnan,Georgia,United States,3210288
 Private Call,KC3ZSA Robert,Ellicott City,Maryland,United States,3210289
 Private Call,KC5WBF William,Jonesboro,Arkansas,United States,3210291
@@ -185555,6 +185631,7 @@ Private Call,KE9BPE Todd,Valparaiso,Indiana,United States,3211097
 Private Call,KK7RMJ Jeff,Henderson,Nevada,United States,3211099
 Private Call,KQ4WFW William K,Tampa,Florida,United States,3211101
 Private Call,AD2IZ Robert,East Amherst,New York,United States,3211107
+Private Call,KO6GCX Stephen,Murrieta,California,United States,3211108
 Private Call,KI4MJO William,Vero Beach,Florida,United States,3211109
 Private Call,KF0RUN Avery,Carl Junction,Missouri,United States,3211113
 Private Call,NC4PB Paul,Fayetteville,North Carolina,United States,3211117
@@ -185723,6 +185800,7 @@ Private Call,KD3ABM Scranton,,Pennsylvania,United States,3211478
 Private Call,KE6FNQ Will,Alexandria,Virginia,United States,3211481
 Private Call,KO6GPN Nicolas,Los Angeles,California,United States,3211483
 Private Call,WA6JBD Mel,Rancho Cucamonga,California,United States,3211486
+Private Call,KE9BUA Shawn,Westfield,Indiana,United States,3211488
 Private Call,KK7UZZ Cody,St George,Utah,United States,3211491
 Private Call,KC1VJC Philip,Preston,Connecticut,United States,3211492
 Private Call,W2DAX Dax,Aurora,Colorado,United States,3211493
@@ -185960,6 +186038,7 @@ Private Call,KQ4YSA William,Pensacola,Florida,United States,3212038
 Private Call,KJ5JBX Monte A,Owasso,Oklahoma,United States,3212040
 Private Call,W8MJR Matthew,Morgantown,West Virginia,United States,3212041
 Private Call,KG7QNE Joan,Thermopolis,Wyoming,United States,3212042
+Private Call,KK7VGR Matthew,Great Falls,Montana,United States,3212045
 Private Call,KQ4ZCR Randy,JONESVILLE,North Carolina,United States,3212047
 Private Call,KQ4AYK James,Mayodan,North Carolina,United States,3212048
 Private Call,KE8YMM Mark,Grand Rapids,Michigan,United States,3212049
@@ -188678,6 +188757,7 @@ Private Call,K8CMI Gerald D,Avon Lake,Ohio,United States,3217652
 Private Call,KE9DOV Drew,Taylorville,Illinois,United States,3217653
 Private Call,KJ5LIZ Larry,Heath,Texas,United States,3217654
 Private Call,K9CDA C David,Naperville,Illinois,United States,3217655
+Private Call,N4GDD Gregory,Fries,Virginia,United States,3217660
 Private Call,KD7BJF Brian H,Albuquerque,New Mexico,United States,3217662
 Private Call,KR4DXM Leah,Atlanta,Georgia,United States,3217666
 Private Call,KR4DWQ Devin,Christiana,Tennessee,United States,3217676
@@ -188714,9 +188794,11 @@ Private Call,N3PVZ Christopher,Leesport,Pennsylvania,United States,3217775
 Private Call,W4FME Forrest,Memphis,Tennessee,United States,3217776
 Private Call,KF0USF David,Longmont,Colorado,United States,3217786
 Private Call,KK7MHE Nathan,Washington,Utah,United States,3217789
+Private Call,KI7QVR Brian,Maricopa,Arizona,United States,3217792
 Private Call,KF5JUQ Joseph,Kaufman,Texas,United States,3217799
 Private Call,KK7BNV Joseph,Ogden,Utah,United States,3217805
 Private Call,KM7ABE Steven,Tooele,Utah,United States,3217810
+Private Call,KC1WZS Manny,Portland,Connecticut,United States,3217812
 Private Call,WK6K Juergen,,Texas,United States,3217829
 Private Call,WJ4CFW James,Marietta,Georgia,United States,3217830
 Private Call,KN4UZQ David,Hermitage,Tennessee,United States,3217850
@@ -188782,6 +188864,7 @@ Private Call,KD6OCZ Paul,Laguna Beach,California,United States,3218051
 Private Call,KF0SYJ Shawn,Coffeyville,Kansas,United States,3218059
 Private Call,WH6HFA Moses,Oceanview,Hawaii,United States,3218062
 Private Call,KG4FXS Michael,Ball Ground,Georgia,United States,3218079
+Private Call,W6SNX Donald,Kirkland,Washington,United States,3218092
 Private Call,KN6TYF Jonathan,Oakland,California,United States,3222223
 Private Call,NT4AL Alan,Deerfield Beach,Florida,United States,3240000
 Private Call,W8CPT Donald,Columbus,Michigan,United States,3242069
@@ -188807,6 +188890,30 @@ Private Call,KF0EXF Kostiantyn,Castle Rock,Colorado,United States,3232323
 Private Call,KF6DMA Clive,Livermore,California,United States,3231337
 Private Call,KC5PRO Kimberly,Walker,Louisiana,United States,3222222
 Private Call,NE0S Philip A,Crestone,Colorado,United States,3220002
+Private Call,KJ5GVE William,League City,Texas,United States,3218141
+Private Call,KE2DDR Ernest,Harriman,New York,United States,3218140
+Private Call,KB2KHL Jason,Leetonia,Ohio,United States,3218139
+Private Call,KF0UJS Cody,Fort Collins,Colorado,United States,3218138
+Private Call,KF0SMY David,Arnold,Missouri,United States,3218137
+Private Call,KK4IKA Kimberly,Milton,Florida,United States,3218136
+Private Call,KK4IKF Kenneth,Milton,Florida,United States,3218135
+Private Call,AK6ON Joel,San Jose,California,United States,3218134
+Private Call,K9OSU James,Norman,Oklahoma,United States,3218133
+Private Call,KR4EIG Maria,Lady Lake,Florida,United States,3218132
+Private Call,KB3RLM Peter,Townsend,Delaware,United States,3218131
+Private Call,KO4LHO Christopher,Nashville,Tennessee,United States,3218130
+Private Call,KA1OSH Phyllis,Boynton Beach,Florida,United States,3218129
+Private Call,N9CM Carroll,Marion,Illinois,United States,3218128
+Private Call,N4MPH John,Deltona,Florida,United States,3218127
+Private Call,KC3SIZ James,Butler,Pennsylvania,United States,3218126
+Private Call,K0CWB Craig,Fort Collins,Colorado,United States,3218125
+Private Call,W7BA Bob,Shelton,Washington,United States,3218124
+Private Call,KE8UIQ Paul,Middleville,Michigan,United States,3218123
+Private Call,KF0UFJ Justice,Florissant,Colorado,United States,3218122
+Private Call,KB9FNH Cheryl,Waterford,Wisconsin,United States,3218121
+Private Call,KZ4KV Charles,Crawfordville,Florida,United States,3218120
+Private Call,N5ROC Will,Hartselle,Alabama,United States,3218119
+Private Call,KD9YNR Paul,Cary,Illinois,United States,3218118
 Private Call,KJ5JSL Matthew,Oklahoma City,Oklahoma,United States,3218117
 Private Call,KF0PZG Robert,Carroll,Iowa,United States,3218116
 Private Call,KB0BWG Shane,Wellington,Kentucky,United States,3218115
@@ -188832,7 +188939,6 @@ Private Call,KM7BFS Clarence,Tacoma,Washington,United States,3218096
 Private Call,KG4TXL Josh,Goose Creek,South Carolina,United States,3218095
 Private Call,KR4FEF Jason,Wildwood,Florida,United States,3218094
 Private Call,KQ4HRK Craig,Chattanooga,Tennessee,United States,3218093
-Private Call,W6SNX Donald,Kirkland,Washington,United States,3218092
 Private Call,KB0ZOM Ben,Hastings,Nebraska,United States,3218091
 Private Call,KR4FAV Ronald,Pensacola,Florida,United States,3218090
 Private Call,WD9HXC Brian,Grand Marsh,Wisconsin,United States,3218089
@@ -189047,7 +189153,6 @@ Private Call,KI5YHR Natascha,Perkinston,Mississippi,United States,3217816
 Private Call,KR4EXY Benjamen,Section,Alabama,United States,3217815
 Private Call,KD9UTR Douglas,Bartlett,Illinois,United States,3217814
 Private Call,KI5YHS Anita,Wiggins,Mississippi,United States,3217813
-Private Call,KC1WZS Manny,Portland,Connecticut,United States,3217812
 Private Call,KM7BMH Daniel,South Jordan,Utah,United States,3217811
 Private Call,KB2VDO Ian,Jamestown,New York,United States,3217809
 Private Call,KF8ENC Doug,Vandalia,Ohio,United States,3217808
@@ -189064,7 +189169,6 @@ Private Call,KD3BMH Donald,Aberdeen,Maryland,United States,3217796
 Private Call,KD9WYA Jon,Appleton,Wisconsin,United States,3217795
 Private Call,KF0JBW Garrett,Denver,Iowa,United States,3217794
 Private Call,KQ4TWP Willie,Homestead,Florida,United States,3217793
-Private Call,KI7QVR Brian,Maricopa,Arizona,United States,3217792
 Private Call,K4RLR Carl,Belle Plaine,Iowa,United States,3217791
 Private Call,KR4EUQ Stephen,Oviedo,Florida,United States,3217790
 Private Call,N1JDD Joshua,Ocklawaha,Florida,United States,3217788
@@ -189160,7 +189264,6 @@ Private Call,KC3MIA Justin,Coatesville,Pennsylvania,United States,3217665
 Private Call,KR4CAU Aaron,Dover,North Carolina,United States,3217664
 Private Call,KR4BQI David,Celebration,Florida,United States,3217663
 Private Call,KD9EPZ Allen,Westfield,Iowa,United States,3217661
-Private Call,N4GDD Gregory,Fries,Virginia,United States,3217660
 Private Call,KF0UPA Kathryn,Denver,Colorado,United States,3217659
 Private Call,WA5UNI Martin,Fort Worth,Texas,United States,3217658
 Private Call,W4SDN Blaine,Peachtree Corners,Georgia,United States,3217657
@@ -192053,7 +192156,6 @@ Private Call,KC1VTX William,Dover,New Hampshire,United States,3212056
 Private Call,KJ5IWV Daniel,Proctor,Arkansas,United States,3212053
 Private Call,AC3KA Jiawei,Melbourne,Florida,United States,3212050
 Private Call,KK4UFF Shaun,Barboursville,West Virginia,United States,3212046
-Private Call,KK7VGR Matthew,Great Falls,Montana,United States,3212045
 Private Call,K8WVU Brandon,Jane Lew,West Virginia,United States,3212044
 Private Call,KE2EFA Jacob,Putnam Valley,New York,United States,3212043
 Private Call,W1SWE Steven,Bucyrus,Ohio,United States,3212039
@@ -192373,7 +192475,6 @@ Private Call,KF7TOZ Shawn,West Bend,Wisconsin,United States,3211497
 Private Call,K0WDG James,Solvang,California,United States,3211496
 Private Call,KF8CGK Chaz,Harrison,Ohio,United States,3211490
 Private Call,KQ4YAL Kara,Commerce,Georgia,United States,3211489
-Private Call,KE9BUA Shawn,Westfield,Indiana,United States,3211488
 Private Call,KZ4MW Wallace,Flag Pond,Tennessee,United States,3211487
 Private Call,WR0S Warren,Lee S Summit,Missouri,United States,3211485
 Private Call,KQ4ILV Dalton,Waynesville,North Carolina,United States,3211484
@@ -192585,7 +192686,6 @@ Private Call,KQ4NXR Richard,Huntersville,North Carolina,United States,3211114
 Private Call,KF4SOY Yoid,Homestead,Florida,United States,3211112
 Private Call,KQ4WIV Hector,Weston,Florida,United States,3211111
 Private Call,KQ4JYG Keith,Melbourne,Florida,United States,3211110
-Private Call,KO6GCX Stephen,Murrieta,California,United States,3211108
 Private Call,N6WDY Alexander,Santa Clara,California,United States,3211106
 Private Call,W1JMC Joseph,Seadrift,Texas,United States,3211105
 Private Call,KQ4MIV Kevin,Riverview,Florida,United States,3211104
@@ -193106,7 +193206,6 @@ Private Call,KJ5HWH Eddie,Porter,Texas,United States,3210278
 Private Call,KQ4UMW Chad,Leesburg,Virginia,United States,3210277
 Private Call,K3SMW Steven,Harrisburg,Pennsylvania,United States,3210276
 Private Call,KQ4UQR Brandon,Cordova,Tennessee,United States,3210275
-Private Call,KF8BIB Glen,Laura,Ohio,United States,3210274
 Private Call,KQ4UZC Taylor,Eustis,Florida,United States,3210272
 Private Call,KQ4URW Christopher,Bradenton,Florida,United States,3210270
 Private Call,KB0KQI David,Colorado Springs,Colorado,United States,3210269
@@ -193696,7 +193795,6 @@ Private Call,KQ4QIA Sam,Surfside Beach,South Carolina,United States,3209304
 Private Call,AF5JV Jian,Merced,California,United States,3209303
 Private Call,KE7LIR Bryan,North Las Vegas,Nevada,United States,3209302
 Private Call,KF8BTT Joshua A,Lebanon,Ohio,United States,3209301
-Private Call,AD2FB Blakely,Corning,New York,United States,3209299
 Private Call,AK6HZ Rui,Fontana,California,United States,3209298
 Private Call,W1CDN Matthew,East Grand Forks,Minnesota,United States,3209297
 Private Call,KM6ZSW Francisco,San Francisco,California,United States,3209291
@@ -196618,7 +196716,6 @@ Private Call,KK7QIP Kelly,Queen Creek,Arizona,United States,3204913
 Private Call,KC3TJQ Matthew,Shamokin,Pennsylvania,United States,3204912
 Private Call,W4ODN Braxton,Simpsonville,South Carolina,United States,3204910
 Private Call,KD6Q Geoffe,San Jose,California,United States,3204909
-Private Call,KE8YWB Steven,Morrow,Ohio,United States,3204908
 Private Call,KF0OLN Timothy,Brookings,South Dakota,United States,3204904
 Private Call,KO4OYA Lucas,Buffalo,South Carolina,United States,3204902
 Private Call,KO4PTU Aaron,Burns,Tennessee,United States,3204901
@@ -196996,7 +197093,6 @@ Private Call,KF0MZU Eugene,Woodland Park,Colorado,United States,3204372
 Private Call,KJ6NA Thomas,Edwards,Colorado,United States,3204370
 Private Call,KC3YCE Thomas,Glenmoore,Pennsylvania,United States,3204369
 Private Call,KO6CFJ Miles,Costa Mesa,California,United States,3204368
-Private Call,KF7THZ Patrick,Battle Ground,Washington,United States,3204366
 Private Call,KC9YS Alan,Batavia,Illinois,United States,3204365
 Private Call,KQ4MKJ Paul,Doraville,Georgia,United States,3204363
 Private Call,KF0LKJ Raymond,Corcoran,Minnesota,United States,3204362
@@ -199386,7 +199482,6 @@ Private Call,WB7EDM Robert,Bland,Virginia,United States,3201018
 Private Call,KC8PPZ David,Jeddo,Michigan,United States,3201015
 Private Call,KE8TBI Michael,Waynesville,Ohio,United States,3201014
 Private Call,KD0OWK Cody,Joplin,Missouri,United States,3201013
-Private Call,W2MDK Matthew,Sound Beach,New York,United States,3201012
 Private Call,KE8RZP Daniel,Cleveland,Ohio,United States,3201011
 Private Call,AI5NQ Robert,Wichita Falls,Texas,United States,3201010
 Private Call,KJ5BQZ Jarrod,Gonzales,Louisiana,United States,3201009
@@ -199628,7 +199723,6 @@ Private Call,K0MDT Michael,Sarasota,Florida,United States,3200698
 Private Call,KC7SKY Todd,Redmond,Washington,United States,3200697
 Private Call,KE8YOY Andrew,New Lebanon,Ohio,United States,3200696
 Private Call,KK7NDX Christopher,Prescott,Arizona,United States,3200695
-Private Call,KG5YMD Robert,Callahan,Florida,United States,3200694
 Private Call,KG4ETV James,MYRTLE BEACH,South Carolina,United States,3200693
 Private Call,KO4ULT Ricky,Hartsville,Tennessee,United States,3200692
 Private Call,KQ4JGV Ken,Coral Springs,Florida,United States,3200690
@@ -199905,97 +199999,3 @@ Private Call,KK7KRA Jody,Blackfoot,Idaho,United States,3200319
 Private Call,KC3VJU Alexander,Canonsburg,Pennsylvania,United States,3200317
 Private Call,KC1PUV Melanie,Bristol,Rhode Island,United States,3200316
 Private Call,KJ5BIJ Bryan,Tonkawa,Oklahoma,United States,3200315
-Private Call,AD0DP John,Colorado Springs,Colorado,United States,3200313
-Private Call,W8VFP David,Kingsville,Ohio,United States,3200312
-Private Call,KH6JJD Theodore,Annandale,Virginia,United States,3200311
-Private Call,WA9IPK Richard,Parker,Colorado,United States,3200310
-Private Call,KI6RSI Mark,Folsom,California,United States,3200309
-Private Call,KK4YOK Donna,Pensacola,Florida,United States,3200308
-Private Call,KE8PDR Andrew,Ashland,Ohio,United States,3200307
-Private Call,KI6OKR Shawn,Eldersburg,Maryland,United States,3200306
-Private Call,KD9WSC Jeffrey,New Athens,Illinois,United States,3200305
-Private Call,N7WIP Michael,Everett,Washington,United States,3200304
-Private Call,KG4DDI DoDropIn Radio,Bowling Green,Kentucky,United States,3200303
-Private Call,KE6DUI Robert,Upland,California,United States,3200302
-Private Call,KC5DEB Debra,Rowlett,Texas,United States,3200301
-Private Call,N8AMZ Axel,Cleveland,Ohio,United States,3200300
-Private Call,KE0WHG Ian,Iowa City,Iowa,United States,3200298
-Private Call,KO4LZT Robert,Cary,North Carolina,United States,3200297
-Private Call,W1NDT Robert,North Haven,Connecticut,United States,3200296
-Private Call,KD9YCE Brian,Springfield,Missouri,United States,3200295
-Private Call,K2TUX Alan,Attica,New York,United States,3200294
-Private Call,KH6GG Thomas,Honokaa,Hawaii,United States,3200292
-Private Call,AI5HM Larry,Batesville,Arkansas,United States,3200291
-Private Call,KQ4IWM Todd,NORTH PORT,Florida,United States,3200290
-Private Call,W1DRV George,Belmont,Massachusetts,United States,3200287
-Private Call,N7CU John,Goldsboro,North Carolina,United States,3200286
-Private Call,KN6ZWA Mirriam,Campo,California,United States,3200285
-Private Call,AC9LG Thomas,Rice Lake,Wisconsin,United States,3200284
-Private Call,KE0RYT Alex,Avon,Minnesota,United States,3200282
-Private Call,K0JPP Coral,Truckee,California,United States,3200281
-Private Call,KQ4IIT Juan,Pt Charlotte,Florida,United States,3200280
-Private Call,KO4VLO Wallace,Salisbury,North Carolina,United States,3200279
-Private Call,KO4UDR Frank,Louisville,Kentucky,United States,3200278
-Private Call,K9JVA Brian,Cincinnati,Ohio,United States,3200276
-Private Call,KJ7EOW Nicolas,Creswell,Oregon,United States,3200274
-Private Call,KD2ROH Don,West Caldwell,New Jersey,United States,3200273
-Private Call,AC4GM Scobie,Mc David,Florida,United States,3200270
-Private Call,KE8YMJ Chad,Ann Arbor,Michigan,United States,3200265
-Private Call,KD0LAV Duane,Marion,Iowa,United States,3200264
-Private Call,KQ4IVU Thomas,Gallatin,Tennessee,United States,3200263
-Private Call,KD9YID Nick,Algonquin,Illinois,United States,3200262
-Private Call,K7GRL Barbara,North Bend,Oregon,United States,3200260
-Private Call,K04TQW Juan,miami,Florida,United States,3200258
-Private Call,KL5BN Leif,Anchorage,Alaska,United States,3200257
-Private Call,KF0MWB George,Wolcott,Colorado,United States,3200256
-Private Call,KJ5AGW Richard,San Antonio,Texas,United States,3200255
-Private Call,KG2AES Jesse,Tampa,Florida,United States,3200251
-Private Call,W5KYU Ka Fai,Austin,Texas,United States,3200249
-Private Call,KG5ASQ Shawn,Council Hill,Oklahoma,United States,3200247
-Private Call,KD4DMW Dennis,Havelock,North Carolina,United States,3200245
-Private Call,KK7MXP Zachary,Marysville,Washington,United States,3200244
-Private Call,N5JGS Jerry,The Villages,Florida,United States,3200243
-Private Call,N8JST Joe,South Boston,Virginia,United States,3200242
-Private Call,KC3PPB Michael,Emmaus,Pennsylvania,United States,3200241
-Private Call,K4AWK Samuel,Minneola,Florida,United States,3200240
-Private Call,KJ5BGR Samuel,The Woodlands,Texas,United States,3200239
-Private Call,N6DBE Draden,Rcho Sta Marg,California,United States,3200238
-Private Call,KJ5BGN Christopher,Austin,Texas,United States,3200237
-Private Call,N4RNM Roger,Hodges,South Carolina,United States,3200236
-Private Call,NU6B Jerry,Prescott Valley,Arizona,United States,3200232
-Private Call,KI6YAH James,Yucca Valley,California,United States,3200230
-Private Call,KI5QHR Daniel,Leander,Texas,United States,3200229
-Private Call,KN6WNY Jane,Clovis,California,United States,3200228
-Private Call,KQ4IGU Adrian,Deerfield Beach,Florida,United States,3200226
-Private Call,K6QWR Bob,Apple Valley,California,United States,3200225
-Private Call,W6TDC Thomas,El Monte,California,United States,3200224
-Private Call,W0IRE James,Richfield,Minnesota,United States,3200223
-Private Call,K4FMF John,Clarksville,Tennessee,United States,3200220
-Private Call,KK7MUB Forest,salmon,Idaho,United States,3200219
-Private Call,KM6BET Ricky,Rialto,California,United States,3200218
-Private Call,KC9HHT Michael,Watseka,Illinois,United States,3200217
-Private Call,N6MSN Gregory,Mountain View,California,United States,3200216
-Private Call,KF0JEC John,Columbia,Missouri,United States,3200213
-Private Call,KJ5ALE Virginia,Friona,Texas,United States,3200212
-Private Call,KK7JTE Martin,Ivins,Utah,United States,3200211
-Private Call,KQ4IRV Keith,Rockledge,Florida,United States,3200207
-Private Call,KQ4BRG Douglas,Chesapeake,Virginia,United States,3200206
-Private Call,KG7PIR Isaac,Bellevue,Washington,United States,3200205
-Private Call,KJ5BAR Mary,Houston,Texas,United States,3200204
-Private Call,KQ4IOV Steven,New Port Richey,Florida,United States,3200201
-Private Call,KE7GMK Timothy,Klamath Falls,Oregon,United States,3200200
-Private Call,KJ6FHG Chensiang,San Gabriel,California,United States,3200199
-Private Call,KM6BPD Marc Anthony,Brea,California,United States,3200197
-Private Call,KR7TAZ Taylor,Carson City,Nevada,United States,3200196
-Private Call,KQ4ABZ John,Hope Mills,North Carolina,United States,3200195
-Private Call,K6FRQ Peter,Brea,California,United States,3200194
-Private Call,KE7FHE Jimmy,Sahuarita,Arizona,United States,3200193
-Private Call,KE4OLE Jeffrey,Hixson,Tennessee,United States,3200192
-Private Call,AA3XJ David,Hagerstown,Maryland,United States,3200190
-Private Call,KN6ZSQ Xi,Santa Cruz,California,United States,3200189
-Private Call,N0VY Chris,Lafayette,Colorado,United States,3200188
-Private Call,KC1ADA William,Warwick,Rhode Island,United States,3200187
-Private Call,AC4EU Gerd,Potomac,Maryland,United States,3200186
-Private Call,KC3VRG Alexander,State College,Pennsylvania,United States,3200185
-Private Call,KF0MKW Byron,Denver,Colorado,United States,3200182
-Private Call,KO4ZEM Robert,Charlotte,North Carolina,United States,3200181
