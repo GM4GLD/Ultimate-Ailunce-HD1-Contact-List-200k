@@ -27,66 +27,66 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Andorra                  |             20 |               16 |            36 |
 | Anguilla                 |              1 |                2 |             3 |
 | Antigua and Barbuda      |              0 |                2 |             2 |
-| Argentina Republic       |            666 |             1161 |          1827 |
+| Argentina Republic       |            672 |             1155 |          1827 |
 | Armenia                  |              0 |                6 |             6 |
 | Aruba                    |              5 |               12 |            17 |
 | Ascension Island         |              0 |                1 |             1 |
 | Australia                |           1082 |             3470 |          4552 |
-| Austria                  |            771 |             1768 |          2539 |
+| Austria                  |            772 |             1768 |          2540 |
 | Azerbaijan               |              2 |                4 |             6 |
 | Bahamas                  |              1 |                7 |             8 |
 | Bahrain                  |              9 |               17 |            26 |
 | Bangladesh               |             33 |               94 |           127 |
 | Barbados                 |              8 |               22 |            30 |
 | Belarus                  |             65 |              154 |           219 |
-| Belgium                  |            593 |             1278 |          1871 |
+| Belgium                  |            594 |             1277 |          1871 |
 | Belize                   |              1 |               17 |            18 |
 | Bermuda                  |              3 |                5 |             8 |
 | Bolivia                  |              0 |                2 |             2 |
 | Bonaire                  |              6 |                4 |            10 |
 | Bosnia and Hercegovina   |            184 |              325 |           509 |
 | Botswana                 |              1 |                0 |             1 |
-| Brazil                   |           2475 |             3910 |          6385 |
+| Brazil                   |           2476 |             3911 |          6387 |
 | British Virgin Islands   |              0 |                3 |             3 |
 | Brunei Darussalam        |              2 |                3 |             5 |
 | Bulgaria                 |            208 |              532 |           740 |
 | Burkina Faso             |              1 |                1 |             2 |
 | Cameroon                 |              2 |                0 |             2 |
-| Canada                   |           2080 |             4856 |          6936 |
+| Canada                   |           2082 |             4856 |          6938 |
 | Cape Verde               |              0 |                3 |             3 |
 | Cayman Islands           |              4 |                3 |             7 |
 | Central African Republic |              0 |                1 |             1 |
 | Chad                     |              0 |                1 |             1 |
-| Chile                    |            832 |             2347 |          3179 |
-| China                    |           5673 |             7795 |         13468 |
-| Colombia                 |            195 |              486 |           681 |
+| Chile                    |            834 |             2345 |          3179 |
+| China                    |           5684 |             7792 |         13476 |
+| Colombia                 |            196 |              486 |           682 |
 | Cook Islands             |              0 |                1 |             1 |
 | Corsica                  |              8 |               18 |            26 |
 | Costa Rica               |            105 |              107 |           212 |
-| Croatia                  |            281 |              380 |           661 |
+| Croatia                  |            281 |              381 |           662 |
 | Cuba                     |             18 |               97 |           115 |
 | Curacao                  |             13 |               13 |            26 |
 | Cyprus                   |             39 |               62 |           101 |
-| Czech Republic           |            383 |              515 |           898 |
+| Czech Republic           |            384 |              514 |           898 |
 | Denmark                  |            195 |             1499 |          1694 |
 | Djibouti                 |              0 |                1 |             1 |
 | Dominica                 |              3 |               27 |            30 |
 | Dominican Republic       |             29 |              296 |           325 |
-| Ecuador                  |             62 |              220 |           282 |
+| Ecuador                  |             62 |              221 |           283 |
 | Egypt                    |              2 |                0 |             2 |
 | El Salvador              |              6 |               27 |            33 |
 | Equatorial Guinea        |              0 |                1 |             1 |
 | Estonia                  |             76 |               55 |           131 |
 | Falkland Islands         |              1 |                2 |             3 |
 | Faroe Islands            |              2 |                3 |             5 |
-| Finland                  |            615 |              873 |          1488 |
-| France                   |           1246 |             2020 |          3266 |
+| Finland                  |            617 |              873 |          1490 |
+| France                   |           1248 |             2019 |          3267 |
 | French Guiana            |              2 |                1 |             3 |
 | Georgia                  |              4 |               23 |            27 |
-| Germany                  |           7211 |             9446 |         16657 |
+| Germany                  |           7217 |             9442 |         16659 |
 | Ghana                    |              2 |                4 |             6 |
 | Gibraltar                |              5 |                3 |             8 |
-| Greece                   |            542 |             1682 |          2224 |
+| Greece                   |            545 |             1679 |          2224 |
 | Greenland                |              1 |                3 |             4 |
 | Grenada                  |              0 |                5 |             5 |
 | Guadeloupe               |              2 |               11 |            13 |
@@ -95,8 +95,8 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Guyana                   |              0 |                3 |             3 |
 | Haiti                    |              3 |               27 |            30 |
 | Honduras                 |              3 |               26 |            29 |
-| Hong Kong                |             83 |              197 |           280 |
-| Hungary                  |            390 |              426 |           816 |
+| Hong Kong                |             85 |              195 |           280 |
+| Hungary                  |            391 |              425 |           816 |
 | Iceland                  |              5 |               16 |            21 |
 | India                    |            329 |              822 |          1151 |
 | Indonesia                |            618 |              991 |          1609 |
@@ -104,10 +104,10 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Iraq                     |              1 |                6 |             7 |
 | Ireland                  |            107 |              298 |           405 |
 | Israel                   |            135 |              308 |           443 |
-| Italy                    |           5476 |             6518 |         11994 |
+| Italy                    |           5478 |             6524 |         12002 |
 | Ivory Coast              |              2 |                2 |             4 |
 | Jamaica                  |              9 |                6 |            15 |
-| Japan                    |            277 |             2354 |          2631 |
+| Japan                    |            279 |             2353 |          2632 |
 | Jordan                   |              1 |                7 |             8 |
 | Kazakhstan               |             69 |               77 |           146 |
 | Kenya                    |              1 |                2 |             3 |
@@ -121,13 +121,13 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Lesotho                  |              0 |                2 |             2 |
 | Liberia                  |              0 |                2 |             2 |
 | Liechtenstein            |              7 |                7 |            14 |
-| Lithuania                |             77 |               74 |           151 |
-| Luxemburg                |            102 |              137 |           239 |
+| Lithuania                |             78 |               73 |           151 |
+| Luxemburg                |            104 |              135 |           239 |
 | Macao                    |              0 |                2 |             2 |
 | Macedonia                |             82 |               25 |           107 |
 | Madagascar               |              0 |                3 |             3 |
 | Malawi                   |              0 |                1 |             1 |
-| Malaysia                 |            217 |              840 |          1057 |
+| Malaysia                 |            218 |              839 |          1057 |
 | Maldives                 |              1 |                4 |             5 |
 | Malta                    |             38 |               39 |            77 |
 | Martinique               |              5 |               12 |            17 |
@@ -150,63 +150,63 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | New Zealand              |            275 |             1094 |          1369 |
 | Nicaragua                |              1 |               19 |            20 |
 | Nigeria                  |              0 |                3 |             3 |
-| Norway                   |            584 |              804 |          1388 |
+| Norway                   |            585 |              804 |          1389 |
 | Oman                     |             48 |              115 |           163 |
 | Pakistan                 |             20 |               22 |            42 |
 | Palau                    |              0 |                2 |             2 |
-| Panama                   |             65 |              288 |           353 |
+| Panama                   |             66 |              287 |           353 |
 | Papua New Guinea         |              1 |                6 |             7 |
 | Paraguay                 |             14 |               36 |            50 |
 | Peru                     |             34 |               98 |           132 |
-| Philippines              |            336 |             1706 |          2042 |
-| Poland                   |           2543 |             2182 |          4725 |
-| Portugal                 |            735 |              748 |          1483 |
+| Philippines              |            337 |             1705 |          2042 |
+| Poland                   |           2548 |             2178 |          4726 |
+| Portugal                 |            735 |              750 |          1485 |
 | Puerto Rico              |            167 |              580 |           747 |
 | Qatar                    |              5 |               16 |            21 |
 | Reunion                  |             17 |               60 |            77 |
-| Romania                  |            319 |              672 |           991 |
-| Russia                   |           1492 |             1195 |          2687 |
+| Romania                  |            320 |              672 |           992 |
+| Russia                   |           1495 |             1196 |          2691 |
 | Saint Kitts and Nevis    |              1 |                6 |             7 |
 | Saint Lucia              |              2 |               12 |            14 |
 | Samoa                    |              0 |                1 |             1 |
 | San Marino               |             16 |               14 |            30 |
 | Saudi Arabia             |              5 |               19 |            24 |
 | Senegal                  |              0 |                1 |             1 |
-| Serbia                   |            383 |              295 |           678 |
+| Serbia                   |            384 |              294 |           678 |
 | Seychelles               |              0 |                1 |             1 |
 | Singapore                |             12 |               55 |            67 |
 | Slovakia                 |            144 |              169 |           313 |
 | Slovenia                 |            554 |              437 |           991 |
 | South Africa             |            213 |              497 |           710 |
-| Spain                    |           4983 |             4409 |          9392 |
+| Spain                    |           4988 |             4407 |          9395 |
 | Sri Lanka                |              5 |               35 |            40 |
 | St. Vincent and Grenada  |              1 |               11 |            12 |
 | Sudan                    |              0 |                1 |             1 |
 | Suriname                 |              2 |                0 |             2 |
 | Swasiland                |              0 |                1 |             1 |
-| Sweden                   |            782 |             1653 |          2435 |
+| Sweden                   |            785 |             1650 |          2435 |
 | Switzerland              |            793 |             1229 |          2022 |
-| Taiwan                   |            250 |              386 |           636 |
+| Taiwan                   |            251 |              385 |           636 |
 | Tanzania                 |              0 |                2 |             2 |
 | Thailand                 |            375 |             1597 |          1972 |
 | Togo                     |              0 |                1 |             1 |
 | Tonga                    |              1 |                0 |             1 |
 | Trinidad and Tobago      |             34 |               97 |           131 |
-| Turkiye                  |           2073 |             5001 |          7074 |
+| Turkiye                  |           2076 |             4999 |          7075 |
 | Türkiye                  |              3 |                6 |             9 |
 | U.S. Virgin Islands      |              9 |               59 |            68 |
-| Ukraine                  |            346 |              432 |           778 |
+| Ukraine                  |            349 |              429 |           778 |
 | United Arab Emirates     |             28 |               74 |           102 |
-| United Kingdom           |           4609 |            13163 |         17772 |
-| United States            |          27364 |            10163 |         37527 |
+| United Kingdom           |           4615 |            13158 |         17773 |
+| United States            |          27405 |            10076 |         37481 |
 | Uruguay                  |            154 |              297 |           451 |
 | Uzbekistan               |              2 |               11 |            13 |
 | Vanuatu                  |              1 |                1 |             2 |
-| Venezuela                |            153 |              445 |           598 |
+| Venezuela                |            154 |              446 |           600 |
 | Vietnam                  |              0 |                6 |             6 |
 | Zambia                   |              2 |                1 |             3 |
 | Zimbabwe                 |              0 |                3 |             3 |
-| Totals                   |          86180 |           113820 |        200000 |
+| Totals                   |          86306 |           113694 |        200000 |
 
 
 ## Usage
