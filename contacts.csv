@@ -3717,7 +3717,7 @@ Private Call,DX1BSP DX1BSP HQ,Metro Manila,National Capital Region,Philippines,5
 Private Call,YD1AXR Purnama,Tasikmalaya,Jawa Barat,Indonesia,5100054
 Private Call,IU5VKC Giovanni,Firenze,Tuscany,Italy,2232954
 Private Call,DX1PAR Philippine Amateur Radio Assn,Bir Road Diliman Quezon City,National Capital Region,Philippines,5150262
-Private Call,9W2KYN Mohammad Rizal,Kuala Lumpur,West Malaysia,Malaysia,5020457
+Private Call,9W2KYN Rizal,Kuala Lumpur,West Malaysia,Malaysia,5020457
 Private Call,DJ6DP Daria,Hannover,Niedersachsen Bremen,Germany,2635573
 Private Call,GM4WMM Stuart,Orkney,Scotland,United Kingdom,2354052
 Private Call,DG2MAS Andreas,Germering,Bayern,Germany,2655555
@@ -5633,7 +5633,7 @@ Private Call,6K2LMB Byong-Reoul,Anyang City,Gyeonggi Province,Korea Republic of,
 Private Call,DL8AAJ Uwe,Elmshorn,Hamburg Schleswig-Holstein,Germany,2632270
 Private Call,SP6PSP Klub,Opole,opolskie,Poland,2603668
 Private Call,DG4DAZ Joerg,Luedenscheid,Nordrhein-Westfalen,Germany,2624774
-Private Call,IK7XLL Enzo,Roseto valfortore,,Italy,2227262
+Private Call,IK7XLL Enzo,Roseto Valfortore,Apulia Basilicata,Italy,2227262
 Private Call,SQ3L Marcin,Poznan,wielkopolskie,Poland,2601442
 Private Call,DG3GRK Rolf,Tennenbronn,,Germany,2627451
 Private Call,PA2JM Joop,Amsterdam,Noord-Holland,Netherlands,2041003
@@ -6173,7 +6173,7 @@ Private Call,IW2LSY Corrado,Piateda,,Italy,2224760
 Private Call,CD4PQW Luis Alberto,Rancagua,O'Higgins,Chile,7302420
 Private Call,EA6AJW Carlos,Sa Rapita,Baleares,Spain,2140240
 Private Call,DG6SGQ Bernhard,Heilbronn,Baden-Wuerttemberg,Germany,2637394
-Private Call,HB9THC Peter,Birr,,Switzerland,2285025
+Private Call,HB9THC Peter,Belp,Bern,Switzerland,2285025
 Private Call,F6INI Jacques,Meudon,,France,2080067
 Private Call,CA2DCZ Daniel,OVALLE,Coquimbo,Chile,7302475
 Private Call,JG7IMF Momoi,Sendai,Tohoku,Japan,4407004
@@ -7274,7 +7274,7 @@ Private Call,G6LUU Alan,Northampton,England,United Kingdom,2349309
 Private Call,LW4DKI Claudio Fabian,Lanus,Buenos Aires,Argentina Republic,7220071
 Private Call,HL2ALZ Myeongjun,,Gyeonggi Province,Korea Republic of,4501134
 Private Call,PU2UEA Adriano Aparecido Francischini,Rio Claro,Sao Paulo,Brazil,7241549
-Private Call,YY5AAE Alexander H.,,Miranda,Venezuela,7340048
+Private Call,YY5AAE Alexander,Caracas,Distrito Capital,Venezuela,7340048
 Private Call,DS4HTG Kim,Yeosu,Jeonlla Nam Do,Korea Republic of,4501925
 Private Call,CX1AB Rafael,,Montevideo,Uruguay,7480279
 Private Call,BD3OCE wenguohong,handan,Shanxi Hebei Tianjin,China,4615164
@@ -8522,7 +8522,7 @@ Private Call,IU3IJI Andrea,Belluno,Veneto Trentino-AA Friuli-VG,Italy,2231985
 Private Call,DL1WM Wolfgang,Stuttgart,,Germany,2627713
 Private Call,CR7BMA Tiago,Figueira Da Foz,Regiao Centro,Portugal,2680456
 Private Call,SQ6ADI Adrian,Glogow,dolnośląskie,Poland,2601233
-Private Call,EA5HPA JORGE,Alcantarilla,,Spain,2145285
+Private Call,EA5HPA JORGE,Murcia,Murcia,Spain,2145285
 Private Call,DH9JZ Anca,Weidenbach,,Germany,2625521
 Private Call,9W2EOD Titus,Selangor,West Malaysia,Malaysia,5020794
 Private Call,HG4ZKZ Zoltan,Zamoly,Kozep-Dunantul,Hungary,2160312
@@ -9111,8 +9111,8 @@ Private Call,PA5DFT Cees,Delft,Zuid-Holland,Netherlands,2040683
 Private Call,EI7JVB Pedro,Cork,All Regions,Ireland,2720416
 Private Call,CA7MZD Sebastian,Calbuco,Los Lagos,Chile,7300758
 Private Call,PU3ABN Amilton,Santa Maria,Rio Grande do Sul,Brazil,7244557
-Private Call,YO3TCO Cristian,Bucharest,Bucuresti Ilfov,Romania,2260615
-Private Call,YO3TCO Cristian,Bucharest,Bucuresti Ilfov,Romania,2260580
+Private Call,YO3TCO Chris,Bucharest,Bucuresti Ilfov,Romania,2260615
+Private Call,YO3TCO Chris,Bucharest,Bucuresti Ilfov,Romania,2260580
 Private Call,BI6JIW Long,LUOYANG,Henan Hubei Anhui,China,4612016
 Private Call,OH2II Wamo,Espoo,,Finland,2442131
 Private Call,OZ1UNL Unal,None,,Denmark,2380303
@@ -10647,8 +10647,8 @@ Private Call,CE4SNF Jose,Chillan Viejo,Bio Bio,Chile,7303416
 Private Call,TB5PJV Mutlu,Nevsehir,Central Anatolia Region,Turkiye,2863422
 Private Call,IU2LYK Sax,Villa Guardia,,Italy,2224559
 Private Call,S54TIM Martina,Spodnji Ivanjci,Podravska,Slovenia,2930846
-Private Call,YO3TCO Cristian,Bucharest,Bucuresti Ilfov,Romania,2260616
-Private Call,YO3TCO Cristian,Bucharest,Bucuresti Ilfov,Romania,2260618
+Private Call,YO3TCO Chris,Bucharest,Bucuresti Ilfov,Romania,2260616
+Private Call,YO3TCO Chris,Bucharest,Bucuresti Ilfov,Romania,2260618
 Private Call,IU3OVK Demis,BELLUNO,Veneto Trentino-AA Friuli-VG,Italy,2229794
 Private Call,IU8IZB Rino,Marigliano,,Italy,2228470
 Private Call,EA3JHR Alejandro,Montgat,Barcelona,Spain,2149987
@@ -11164,7 +11164,7 @@ Private Call,CT2HBL Julio,Porto,Regiao Norte,Portugal,2681098
 Private Call,DL1ND Klaus,Wilhermsdorf,Bayern,Germany,2638974
 Private Call,IU2TZO Antonio,Varese,Lombardy,Italy,2231613
 Private Call,M7AUD Andy,Fareham,,United Kingdom,2348665
-Private Call,TA3BBS Huseyin,Gaziemir,Aegean Region,Turkiye,2863694
+Private Call,TA3KJ Huseyin,Gaziemir,Aegean Region,Turkiye,2863694
 Private Call,BH3UYQ Chao,Hytera,Shanxi Hebei Tianjin,China,4615666
 Private Call,M7XTP Peter,Bradford,England,United Kingdom,2356700
 Private Call,DB5ZP Hans,Rotenburg,,Germany,2626756
@@ -12984,7 +12984,7 @@ Private Call,PG7O Tjeerd,Leeuwarden,,Netherlands,2048271
 Private Call,EA3BE Francisco,Ripollet,,Spain,2143082
 Private Call,EA7KEX Luisma,Pico Del Velata,Granada,Spain,2140500
 Private Call,F5JVT Henryk,Bagnolet,Ile-de-France,France,2081213
-Private Call,PU3CAP Carlos,Porto Alegre,Rio Grande do Sul,Brazil,7240024
+Private Call,PY3CAP Carlos,Porto Alegre,Rio Grande do Sul,Brazil,7240024
 Private Call,VE3POV John Paul,Burlington,Ontario,Canada,3020772
 Private Call,UR4QWW Zaporizhzhia-University,Zaporizhzhia,All Regions,Ukraine,2550526
 Private Call,DH5KAH Gerd,Erkelenz,Nordrhein-Westfalen,Germany,2634360
@@ -14119,7 +14119,7 @@ Private Call,CD4ENT Andres Real Rojas,Curico,Maule,Chile,7303250
 Private Call,PU6JTO Jadiel,Conceição do Coité,Bahia,Brazil,7243847
 Private Call,BA4SML Tao,Jiangsu,Shanghai Shandong Jiangsu,China,4614241
 Private Call,VA2XJM Jean-Michel,,Quebec,Canada,3020810
-Private Call,VK4DXN Mario,,Queensland,Australia,5051711
+Private Call,VK4DXN Mario,Brisbane,Queensland,Australia,5051711
 Private Call,CX1DF Martin,Montevideo,,Uruguay,7480324
 Private Call,EA1FSG Javier,León,Leon,Spain,2146714
 Private Call,WP4TNV Jose,Carolina,All Regions,Puerto Rico,3300589
@@ -14189,7 +14189,6 @@ Private Call,PE1PZB Oscar,Leeuwarden,Friesland,Netherlands,2041465
 Private Call,MM1AVR Stewart,Oban,,United Kingdom,2354496
 Private Call,VE3OIP Robert Allen,Burlington,Ontario,Canada,3024908
 Private Call,TB3KGU Kemal,Manisa,Aegean Region,Turkiye,2866990
-Private Call,MW3LUR Jonathan,Redcar,England,United Kingdom,2350801
 Private Call,G4ANG David,Chester,England,United Kingdom,2351479
 Private Call,HJ3WWA William,Facatativa,Cundinamarca,Colombia,7320674
 Private Call,EA7ESH EA7ESH,PUERTO REAL -CADIZ,,Spain,2147449
@@ -15238,7 +15237,7 @@ Private Call,EB5FVZ Migue,Villena,,Spain,2145421
 Private Call,PE1LYU Ben,Zoetermeer,Zuid-Holland,Netherlands,2041343
 Private Call,F4EOT Michael,Cousolre,,France,2089226
 Private Call,IU8IAA Maurizio,Montalto uffugo,,Italy,2228575
-Private Call,LZ1DAW Dimitar,PLOVDIV,,Bulgaria,2840782
+Private Call,LZ1DAW Dimitar,Plovdiv,Plovdiv,Bulgaria,2840782
 Private Call,IZ1ULN Alessandro,Casarza Ligure,,Italy,2221529
 Private Call,ZL1TAP Andrew,TAURANGA,North Island 1,New Zealand,5301088
 Private Call,DG8XR Thomas,Hamburg,,Germany,2622113
@@ -16444,7 +16443,7 @@ Private Call,HB9EFJ CLAUDIO,MURALTO,,Switzerland,2286036
 Private Call,ZL3BWG Alan,,,New Zealand,5300449
 Private Call,IK4GNI Luca,Santarcangelo di Romagna,Emilia-Romagna,Italy,2232652
 Private Call,DD3SI Siggi,Berlin,,Germany,2621207
-Private Call,VK4NZL Eugene H,Redcliffe,Queensland,Australia,5051356
+Private Call,VK4NZL Eugene,Redcliffe,Queensland,Australia,5051356
 Private Call,YC5NCB Hemi,Pelalawan,Riau,Indonesia,5100258
 Private Call,BA7JWV Charlie,SS,Hunan Guangdong Guangxi Hainan,China,4606154
 Private Call,EA2CLE REN,Bilbao,,Spain,2140317
@@ -17025,7 +17024,7 @@ Private Call,HG8JG Karcsi,Csorvas,,Hungary,2168029
 Private Call,PA0ETE John,Amersfoort,,Netherlands,2043009
 Private Call,EA1FRG Gregorio,RIBERA ARRIBA,Asturias,Spain,2148310
 Private Call,VA2KU Gino,Saint-Roch-De-Richel,Quebec,Canada,3022604
-Private Call,S21TCV Md Khairul,Dhobaura Mymensingh,All Regions,Bangladesh,4700064
+Private Call,S21TCV Khairul,Dhobaura Mymensingh,All Regions,Bangladesh,4700064
 Private Call,OH2HNW Marko,Hyvinkaa,All Regions,Finland,2442103
 Private Call,LX1LANZ Loris,Grevenmacher,All Regions,Luxemburg,2700085
 Private Call,EB7DQN Jose,Jaen,,Spain,2147749
@@ -17609,7 +17608,7 @@ Private Call,9W2USC Zulhelmi,Johor Bahru,West Malaysia,Malaysia,5022066
 Private Call,BH3HOI Qujiaming,Chifeng,Inner Mongolia,China,4615750
 Private Call,EB3FYO Juan Pedro,Riudarenes,,Spain,2140385
 Private Call,SP5SAU Jaroslaw,Warszawa,mazowieckie,Poland,2603533
-Private Call,DO2EN Edgar,Muensterland,Nordrhein-Westfalen,Germany,2634854
+Private Call,DO2EN Edgar,Ostbevern Lk Warendorf,Nordrhein-Westfalen,Germany,2634854
 Private Call,SQ5NBT Andrzej,Warszawa,mazowieckie,Poland,2601926
 Private Call,IT9IQT Antonino,San Pietro Clarenza Ct,Sicily,Italy,2232860
 Private Call,DJ3AM Alfons,Rheine,Nordrhein-Westfalen,Germany,2644134
@@ -18675,7 +18674,7 @@ Private Call,UT8IFO Olha,Slavyansk,,Ukraine,2550266
 Private Call,SP2QCQ Edward,Elblag,warmińsko-mazurskie,Poland,2600563
 Private Call,IT9KHP Daniele,Santa Margherita Di Belice,Sicily,Italy,2231384
 Private Call,PY4EI Alan,EXTREMA,Minas Gerais,Brazil,7241978
-Private Call,YO3TCO Cristian,Bucharest,Bucuresti Ilfov,Romania,2260082
+Private Call,YO3TCO Chris,Bucharest,Bucuresti Ilfov,Romania,2260082
 Private Call,DD1FA Florian,Harmersbach,Baden-Wuerttemberg,Germany,2632991
 Private Call,BI1PCW Sheng Wang,Beijing,Beijing,China,4607566
 Private Call,BG9JWY Si,Jiayuguan,Shaanxi Ningxia Gansu Qinghai,China,4613189
@@ -20623,7 +20622,7 @@ Private Call,VA3NKS Nagaraj,Mississauga,Ontario,Canada,3026781
 Private Call,DO4SEM Metin,Castrop-Rauxel,Nordrhein-Westfalen,Germany,2624434
 Private Call,BG0CHX Jiandong,Urumq,Xinjiang,China,4605986
 Private Call,CT1CZZ Manuel,Beja,Regiao de Alentejo,Portugal,2680564
-Private Call,HS3HXZ Chaivutsorn,Muang Uthai-Thani,Uthai Thani,Thailand,5201407
+Private Call,HS3HXZ Korn,Muang Uthai-Thani,Uthai Thani,Thailand,5201407
 Private Call,TA2SKJ Kemal,Kocaeli,Marmara Region,Turkiye,2867702
 Private Call,DK7RF Franz,Sulzbach Rosenberg,,Germany,2628779
 Private Call,SV8GXQ Isidoros,Vrodados chios,,Greece,2028041
@@ -20662,7 +20661,7 @@ Private Call,BA4TNI Bennyji,Nantong,Shanghai Shandong Jiangsu,China,4613177
 Private Call,OH2GBA John,Jokikunta,All Regions,Finland,2441284
 Private Call,HL4HPK Kyongick,Seogwipo-Si,CheJu-Do,Korea Republic of,4501407
 Private Call,DG2UAT Olaf,Karlsruhe,,Germany,2637467
-Private Call,PU1JAN Alex,Sao Pedro da aldeia,Rio de Janeiro,Brazil,7246644
+Private Call,PY1ASS Alex,Sao Pedro da aldeia,Rio de Janeiro,Brazil,7246644
 Private Call,BH4OHQ Hao,Zibo,Shanghai Shandong Jiangsu,China,4611181
 Private Call,EA4EL Salus,Madrid,Madrid,Spain,2142763
 Private Call,OE1WPW Wilfried,Vienna,Wien,Austria,2320928
@@ -22585,7 +22584,7 @@ Private Call,EA4BM EA4BM,Las Rozas de Madrid,,Spain,2144103
 Private Call,BH3HAR Aidi,Huhehaote,Inner Mongolia,China,4610371
 Private Call,EA1HI Ignacio,Oviedo,,Spain,2141062
 Private Call,JS2DFL Yusuke,Nagoya City,Tokai,Japan,4402123
-Private Call,CT5KEE Simao,Torres Vedras,Regiao de Lisboa,Portugal,2680587
+Private Call,CS7CFN Simao,Torres Vedras,Regiao de Lisboa,Portugal,2680587
 Private Call,BD8FKQ Xingyu,Suining,,China,4612029
 Private Call,SQ7OCI Piotr,Lodz,łódzkie,Poland,2600222
 Private Call,DO8IL Ingo,Tennenbronn,,Germany,2627448
@@ -24291,7 +24290,7 @@ Private Call,OH1I Mika,Pori,All Regions,Finland,2441504
 Private Call,EA7EDF Agu,Granada,Granada,Spain,2140486
 Private Call,YO8RZZ Adrian,Piatra Neamt,,Romania,2260319
 Private Call,BH6QJH Xinchun,Jing Zhou,Henan Hubei Anhui,China,4610028
-Private Call,EA2FIM Chencho,None,Navarra,Spain,2149524
+Private Call,EA2FIM Chencho,Pamplona,Navarra,Spain,2149524
 Private Call,IZ4IRY Marco,Bologna,Emilia-Romagna,Italy,2224894
 Private Call,DG0OD Daniel,Berlin,Berlin Brandenburg,Germany,2635684
 Private Call,SQ7OTK Marcin,Lodz,łódzkie,Poland,2607112
@@ -24662,7 +24661,7 @@ Private Call,BD4WBW Yucheng,Zhenjiang,Shanghai Shandong Jiangsu,China,4602991
 Private Call,RA4PDF Dmitry,Kazan,All Regions,Russia,2500963
 Private Call,HC1EB Edgar Gustavo,QUITO,,Ecuador,7400237
 Private Call,PY4IC Felipe,Lavras,Minas Gerais,Brazil,7246330
-Private Call,DK0WNK Hauke,Midlum,Niedersachsen Bremen,Germany,2635381
+Private Call,DK0WNK I56-Wurster Nordseekueste,Midlum,Niedersachsen Bremen,Germany,2635381
 Private Call,SP6KAT Krystian,Lubin,,Poland,2606165
 Private Call,G6URF Tony,Widnes,,United Kingdom,2345613
 Private Call,BA4TZU Huangyu,None,Shanghai Shandong Jiangsu,China,4614168
@@ -25142,7 +25141,7 @@ Private Call,OM3WIM Vladislav,Zilina,Banskobystricky Zilinsky,Slovakia,2313008
 Private Call,BI3TDU Guangwei,Taiyuan,Shanxi Hebei Tianjin,China,4617666
 Private Call,IW2KWV Ezio,Milano,,Italy,2222437
 Private Call,E24XQI Weeraphan,Bangkok,Bangkok,Thailand,5201358
-Private Call,BG9IJE An,Tianshui,Shaanxi Ningxia Gansu Qinghai,China,4612786
+Private Call,BG9IJE Anjuxian,Tianshui,Shaanxi Ningxia Gansu Qinghai,China,4612786
 Private Call,HJ6AZV Arnaldo,Armenia,Quindio,Colombia,7320483
 Private Call,TB2CBS Kami̇l Bora,Kadiköy,Marmara Region,Turkiye,2864651
 Private Call,CT2GUP Paulo,Sintra,Regiao de Lisboa,Portugal,2680202
@@ -32878,7 +32877,7 @@ Private Call,OE9CRH Claudia,Bregenz,Vorarlberg,Austria,2320819
 Private Call,DC0BA Martin,Karlsruhe,Baden-Wuerttemberg,Germany,2631129
 Private Call,EA7AG Andres,,Almeria,Spain,2148810
 Private Call,DO9BSM Fabian,Berlin,,Germany,2621008
-Private Call,YO3TCO Cristian,Bucharest,Bucuresti Ilfov,Romania,2260581
+Private Call,YO3TCO Chris,Bucharest,Bucuresti Ilfov,Romania,2260581
 Private Call,EA4AAE Javier,Madrid,,Spain,2144168
 Private Call,R2BMP Andrei,Moscow,All Regions,Russia,2502650
 Private Call,SP9THC Lukasz,Wola Kiedrzynska CZESTOCHOWA,śląskie,Poland,2601365
@@ -36591,7 +36590,7 @@ Private Call,OZ4ACK Mogens,Gladsaxe,,Denmark,2384126
 Private Call,R1BFO Rustam,St Petersburg,All Regions,Russia,2501056
 Private Call,F0ELY Gilbert,La Feuillie,Normandie,France,2080452
 Private Call,TA8ER Latif,Sehitkamil Gaziantep,Southeastern Anatolia Region,Turkiye,2866321
-Private Call,YO3TCO Cristian,Bucharest,Bucuresti Ilfov,Romania,2260617
+Private Call,YO3TCO Chris,Bucharest,Bucuresti Ilfov,Romania,2260617
 Private Call,IU3QUX Massimo,Jesolo Venezia,Veneto Trentino-AA Friuli-VG,Italy,2230602
 Private Call,MB6XB Gateway,Stoke-on-Trent,England,United Kingdom,2356829
 Private Call,IZ6SDO Gianni,Teramo,,Italy,2226158
@@ -39415,7 +39414,7 @@ Private Call,CT1EHA Diogo,Lisboa,Regiao de Lisboa,Portugal,2680717
 Private Call,F4AIE Thierry,,Ile-de-France,France,2080181
 Private Call,IZ3NYI Eugenio,San Giovanni Lupatoto,Veneto Trentino-AA Friuli-VG,Italy,2231464
 Private Call,EA4HKE EA4HKE Rafa,Madrid,,Spain,2140667
-Private Call,YO3TCO Cristian,Bucharest,Bucuresti Ilfov,Romania,2260614
+Private Call,YO3TCO Chris,Bucharest,Bucuresti Ilfov,Romania,2260614
 Private Call,VA3CGF Charles,Orleans,Ontario,Canada,3025621
 Private Call,EA5SI Jose,Valencia,Valencia,Spain,2145417
 Private Call,DL4YBG Mark,Jueterbog,Berlin Brandenburg,Germany,2635631
@@ -46172,7 +46171,6 @@ Private Call,SH4EAT Eric,Falun,Dalarna,Sweden,2401103
 Private Call,DG1MG Guenter,Rohrbach,,Germany,2638667
 Private Call,EA1IJL Miguel Angel,Valladolid,Valladolid,Spain,2141275
 Private Call,IU8MHY SALVATORE,CASTELLAMMARE di STABIA,,Italy,2228615
-Private Call,IU2UET Giorgio,Gambolo,Lombardy,Italy,2231764
 Private Call,I4OYU I4OYU,PARMA,,Italy,2224327
 Private Call,SQ9MARI Mariusz,Tarnow,małopolskie,Poland,2601378
 Private Call,G7ICH Jon,Bournemouth,,United Kingdom,2351743
@@ -48616,7 +48614,7 @@ Private Call,2E0BPU Nick,CROYDON,England,United Kingdom,2354961
 Private Call,EA5JFN Francisco,Pinoso,Alicante,Spain,2149582
 Private Call,IU2HCL Ferdinando,Varese,Lombardy,Italy,2222687
 Private Call,PD0RB Rene,Malden,,Netherlands,2046124
-Private Call,SV8KOA Nikos,Zakynthos,,Greece,2028001
+Private Call,SV8KOA Nikos,Zakynthos,Ionian Islands,Greece,2028001
 Private Call,YU4MON Eli,Gornji Milanovac,,Serbia,2200219
 Private Call,M7REL Rob,Liverpool,,United Kingdom,2348471
 Private Call,VE7WEA Jake,Lumby,British Columbia,Canada,3021175
@@ -50817,7 +50815,6 @@ Private Call,IU8EQT Luca,Campobasso,,Italy,2228670
 Private Call,UR5VOM Vlad,Holovanivsk,All Regions,Ukraine,2550654
 Private Call,UR8EN Denys,Krivoy Rog,,Ukraine,2550175
 Private Call,EA2FFC Yeray,Aia,Gipuzkoa,Spain,2149238
-Private Call,IU3NLE Antonio,Badia Polesine,Veneto Trentino-AA Friuli-VG,Italy,2227692
 Private Call,UB6OFA Sergei,Zuhres,All Regions,Russia,2502405
 Private Call,M7YBB Richard A,Hatfield Hertfordshire,England,United Kingdom,2355991
 Private Call,EA5IZL Robertito,Chiva,,Spain,2140220
@@ -57125,7 +57122,7 @@ Private Call,UB1ACV Anton,Sain-Petersburg,All Regions,Russia,2502330
 Private Call,OH6CX Jukka,,All Regions,Finland,2441703
 Private Call,OH6PU Saku,Espoo,All Regions,Finland,2442024
 Private Call,IZ5GTL Elia,Collesalvetti,Tuscany,Italy,2225009
-Private Call,CT2IUB Miguel,Estarreja,,Portugal,2682004
+Private Call,CT2IUB Miguel,Estarreja,Regiao Centro,Portugal,2682004
 Private Call,9A8BM Bob,Labin,Istria,Croatia,2190021
 Private Call,R4NAA Maksim,,,Russia,2504044
 Private Call,UB6HSV Vladimir,Mineral Water,,Russia,2500476
@@ -57139,7 +57136,7 @@ Private Call,CT2GQX Pataias da Silva,Maceira Leiria,,Portugal,2682124
 Private Call,DN2FZ Gerald,Mering,Bayern,Germany,2634472
 Private Call,HB9WCN Rene,Schoetz,Lucerne,Switzerland,2286183
 Private Call,OH8FZL Teemu,Oulainen,,Finland,2441191
-Private Call,IW0HCW Iw0hcw Daniele RM,Roma,,Italy,2220807
+Private Call,IW0HCW Daniele,Roma,Lazio Umbria Sardinia,Italy,2220807
 Private Call,MM0NBW Craig,North Berwick,Scotland,United Kingdom,2354348
 Private Call,M7NJD Nigel,Hythe,,United Kingdom,2346629
 Private Call,DL3VP Volker,Salzgitter,,Germany,2623841
@@ -61863,6 +61860,7 @@ Private Call,SV1TNE Kostas,Agrinio,Attiki Sterea Ellada Dytiki Ellada,Greece,202
 Private Call,SV4TUL George,Volos,Thessalia,Greece,2021716
 Private Call,SY3FAM Sotirios,Kiato Korinthias,Peloponnisos,Greece,2021717
 Private Call,SV7SXR Ioannis,Drama,Anatoliki Makedonia kai Thraki,Greece,2021718
+Private Call,SY8CSP Christos,Mytilini,N. Aegean,Greece,2021719
 Private Call,SV2RGC Konstantinos,Kastoria,,Greece,2022002
 Private Call,SV2MCZ Nicksia,Kastoria,,Greece,2022004
 Private Call,SV2NFK Akaliptos,Kastoria,,Greece,2022005
@@ -63170,6 +63168,7 @@ Private Call,PD4JJ Joop,Zierikzee,Zeeland,Netherlands,2041601
 Private Call,PD1WMS Wouter,Heerenveen,Friesland,Netherlands,2041602
 Private Call,PA3FKC Rob,Hoofddorp,Noord-Holland,Netherlands,2041603
 Private Call,PA3MM Jan,Minnertsga,Friesland,Netherlands,2041604
+Private Call,PD4TSI Theo,Zwijndrecht,Zuid-Holland,Netherlands,2041605
 Private Call,PA3DFN Philip,Spijkenisse,,Netherlands,2042003
 Private Call,PD0R Ruud,Wassenaar,,Netherlands,2042005
 Private Call,PD1PHI Philip,Spijkenisse,,Netherlands,2042006
@@ -71970,6 +71969,10 @@ Private Call,EA4IZU Cristina,Alpedrete,Madrid,Spain,2150419
 Private Call,EA7LQS Miguel,Granada,Granada,Spain,2150420
 Private Call,EA2FMT Mariano,Zaragoza,Zaragoza,Spain,2150421
 Private Call,EA7LRB Julio,Alcala De Guadaira,Sevilla,Spain,2150422
+Private Call,EA7LTK Miguel,Sevilla,Sevilla,Spain,2150423
+Private Call,EA1HBY Jesus,Allariz,Ourense,Spain,2150424
+Private Call,EA1EWL Antonio,Santander,Cantabria,Spain,2150425
+Private Call,EA1KBB Andr,Santander,Cantabria,Spain,2150426
 Private Call,EA7IYR Juan-Carlos,Granada,Granada,Spain,2157000
 Private Call,HA5KSP Karl,Budapest,,Hungary,2160003
 Private Call,HG8LAG Geza,Foldeak,,Hungary,2160004
@@ -72130,6 +72133,7 @@ Private Call,HA8AR Pali,Bekescsaba,Del-Alfold,Hungary,2160395
 Private Call,HG7WHD David,Kistarcsa,Pest,Hungary,2160396
 Private Call,HA5GY Istvan,Debrecen,Eszak-Alfold,Hungary,2160397
 Private Call,HA7HA Sandor,Biatorbagy,Pest,Hungary,2160398
+Private Call,HA5BRD kos,Budapest,Budapest,Hungary,2160399
 Private Call,HA2TO Arpad,Papa,,Hungary,2161001
 Private Call,HA3TL Laszlo,Balatonvilagos,,Hungary,2161004
 Private Call,HA2KDR Rdiamator Klub,Gerecse-hegy,,Hungary,2161008
@@ -73434,6 +73438,9 @@ Private Call,YT1DTI Dusan,Indjija,All Regions,Serbia,2200829
 Private Call,YT3KOM Slavoljub,Beograd,All Regions,Serbia,2200830
 Private Call,YU2SCO Sasa,Beograd,All Regions,Serbia,2200831
 Private Call,YU2SLO Rudi,Beograd,All Regions,Serbia,2200832
+Private Call,YU3NOB Dragan,Belgrade,All Regions,Serbia,2200833
+Private Call,YU4KLM Katarina,Obrenovac,All Regions,Serbia,2200834
+Private Call,YU2MAP Predrag,Belgrade,All Regions,Serbia,2200835
 Private Call,Z63CIA Aurora,Prishtina,,Kosovo,2210001
 Private Call,Z63CIA Aurora,Prishtina,,Kosovo,2210002
 Private Call,IK0YYY Luca,Roma,Lazio Umbria Sardinia,Italy,2220002
@@ -74474,7 +74481,7 @@ Private Call,IK0RPV Massimiliano,Frascati,,Italy,2221950
 Private Call,IZ1RHG EDGAR,OCCHIEPPO SUPERIORE,,Italy,2221951
 Private Call,IU0HLT Massimiliano,Viterbo,,Italy,2221952
 Private Call,IZ0YCC Alessandro,Marino,,Italy,2221953
-Private Call,IK0XCG Stefano,Civitavecchia,,Italy,2221956
+Private Call,IK0XCG Stefano,Civitavecchia,Lazio Umbria Sardinia,Italy,2221956
 Private Call,IU0NHG Dario,Castel Gandolfo,,Italy,2221957
 Private Call,IS0FQK PATRIZIO,QUARTU SANTELENA,,Italy,2221958
 Private Call,IZ1YTK Simofrance,Vercelli,,Italy,2221959
@@ -74614,6 +74621,7 @@ Private Call,IW2AFC Giuseppe,Erba CO,,Italy,2222253
 Private Call,IQ2DP ARIASDM,San Donato Milanese,Lombardy,Italy,2222256
 Private Call,IW2GUU Mau,Merate,,Italy,2222261
 Private Call,IK2PZW Fabio,Gallarate,,Italy,2222262
+Private Call,IW2NTN Piergiusep,MILANO,Lombardy,Italy,2222264
 Private Call,IW2EVH Dan,Caravaggio,,Italy,2222265
 Private Call,IK2LQZ Osvald,Sedriano,,Italy,2222266
 Private Call,IK2WFJ Mauro,Sumirago,Lombardy,Italy,2222267
@@ -74625,6 +74633,7 @@ Private Call,IW2CQO IW2CQO,Villimpenta,,Italy,2222277
 Private Call,IZ2XBZ IZ2XBZ,Rudiano,,Italy,2222280
 Private Call,IZ2YQO Luper,Como,,Italy,2222281
 Private Call,IU2GPC iu2gpc,Brescia,,Italy,2222283
+Private Call,IW2NTN Piergiusep,MILANO,Lombardy,Italy,2222290
 Private Call,IU2HAW iu2haw,Eupilio,,Italy,2222293
 Private Call,IZ2QCL iz2qcl,Turate,,Italy,2222294
 Private Call,IZ2WMW Iz2wmw,Lissone,,Italy,2222295
@@ -75024,6 +75033,7 @@ Private Call,IZ2UQY Gabriella,Mazzano,,Italy,2222995
 Private Call,IW2CLL Erpiu,Cologno Monzese,,Italy,2222996
 Private Call,IU2KWN Sante,Milano,,Italy,2222997
 Private Call,IU2HAH Andrea,Merate,,Italy,2222998
+Private Call,IW3SRH Stefano,Trieste,Veneto Trentino-AA Friuli-VG,Italy,2223001
 Private Call,IZ3JZF Mauro,Mareno Di Piave,Veneto Trentino-AA Friuli-VG,Italy,2223004
 Private Call,IW3IBG Giorgio,Mestre,,Italy,2223005
 Private Call,IW3IBS Franco,Rovigo,,Italy,2223008
@@ -75086,6 +75096,7 @@ Private Call,IN3EHS Julian,Olang,,Italy,2223151
 Private Call,I3EJ Renato,Verona,Veneto Trentino-AA Friuli-VG,Italy,2223154
 Private Call,IW3HXO Athos,Verona,,Italy,2223155
 Private Call,IN3UVS Giuseppe,Cavalese,,Italy,2223156
+Private Call,IW3SRH Stefano,Trieste,Veneto Trentino-AA Friuli-VG,Italy,2223157
 Private Call,IN3ESQ Jiri,Bruneck,,Italy,2223158
 Private Call,IN3EGQ Manfred,Brunico,,Italy,2223159
 Private Call,I3XUH Sergio,Verona,,Italy,2223161
@@ -75448,6 +75459,7 @@ Private Call,IW3ICN Enrico,Camposampiero,Veneto Trentino-AA Friuli-VG,Italy,2223
 Private Call,IK3VUZ IK3VUZ,Soverzene,,Italy,2223838
 Private Call,IW3FNK IW3FNK,Chioggia,,Italy,2223839
 Private Call,IW3HUL IW3HUL,Chioggia,,Italy,2223840
+Private Call,IW3GXW Vmax,Chioggia,Veneto Trentino-AA Friuli-VG,Italy,2223842
 Private Call,IU2EAC Fabio,Turate,,Italy,2223843
 Private Call,IW2FAB ROBY,Baranzate MI,,Italy,2223844
 Private Call,IW2NAL Alberto,Milano,,Italy,2223848
@@ -76490,7 +76502,7 @@ Private Call,IU1FHZ IU1FHZ,Terruggia,,Italy,2225762
 Private Call,IV3GRS Afi,Porcia,,Italy,2225763
 Private Call,IZ2CPS Roberto,Strozza,,Italy,2225765
 Private Call,IK0IET Antonio,Rome,,Italy,2225766
-Private Call,IK1ODN IK1ODN,Piozzo,,Italy,2225767
+Private Call,IK1ODN Lelio,Piozzo,Piedmont Liguria Aosta,Italy,2225767
 Private Call,IU3MIY Lorenzo Zennaro,Mestre VE,Veneto Trentino-AA Friuli-VG,Italy,2225769
 Private Call,IZ0VRD Sandro,Roma,Lazio Umbria Sardinia,Italy,2225770
 Private Call,IU8NUB CIRO,NAPOLI,,Italy,2225771
@@ -80013,6 +80025,16 @@ Private Call,IU3WOV Luca,Castelnovo Bariano,Veneto Trentino-AA Friuli-VG,Italy,2
 Private Call,IU3QOG Riccardo,Portogruaro,Veneto Trentino-AA Friuli-VG,Italy,2233080
 Private Call,IW2EDV Antonio,Bulgarograsso,Lombardy,Italy,2233081
 Private Call,IW0GYC Claudio,Rome,Lazio Umbria Sardinia,Italy,2233082
+Private Call,IT9LLP Ivan,Nicosia,Sicily,Italy,2233083
+Private Call,IT9LLH Giuseppe,Misterbianco,Sicily,Italy,2233084
+Private Call,IT9GHK Giovanni,Siracusa,Sicily,Italy,2233085
+Private Call,IU7WCC Mimmo,Valenzano,Apulia Basilicata,Italy,2233086
+Private Call,IU6RKN Giovanni,Bucchianico,Marche Abruzzo,Italy,2233087
+Private Call,IT9LMC Massimo,Trapani,Sicily,Italy,2233088
+Private Call,IK4WMH Stefano,Cesena,Emilia-Romagna,Italy,2233089
+Private Call,IU5CIJ Francesco,Figline E Incisa Valdarno,Tuscany,Italy,2233090
+Private Call,IU1TUT HAREC,Recco,Piedmont Liguria Aosta,Italy,2233091
+Private Call,IZ0AIO Angelo,Roma,Lazio Umbria Sardinia,Italy,2233092
 Private Call,YO3IPJ Adrian,Bucharest,,Romania,2260003
 Private Call,YO2MNV Alin,Dumbravita,,Romania,2260004
 Private Call,YO9JVS Paul,Rosiori de vede,,Romania,2260006
@@ -83431,6 +83453,7 @@ Private Call,OE3WHI Wilhelm,Schwechat,Niederoesterreich,Austria,2321308
 Private Call,OE1POS Johannes,Wien,Wien,Austria,2321309
 Private Call,OE3BHM Herwig,Brand,Niederoesterreich,Austria,2321310
 Private Call,OE3MMN Manuel,Weissenkirchen,Niederoesterreich,Austria,2321311
+Private Call,OE8BDW Ronald,Irschen,Kaernten,Austria,2321312
 Private Call,OE1TRB Thomas,Wien,,Austria,2321333
 Private Call,OE2AIP Philipp,Slazburg,,Austria,2322001
 Private Call,OE2KLM Herwig,Saalfelden,,Austria,2322003
@@ -83733,7 +83756,7 @@ Private Call,OE3KTH Thomas,Reisenberg,Niederoesterreich,Austria,2323362
 Private Call,OE3VET Emil,Baden,,Austria,2323363
 Private Call,OE3FTA Florian,Neulengbach,,Austria,2323403
 Private Call,OE3OCC Johannes,Sankt Valentin,Niederoesterreich,Austria,2323412
-Private Call,OE3SZA Sebastian,Amstetten,,Austria,2323413
+Private Call,OE3SZA Sebastian,Amstetten,Niederoesterreich,Austria,2323413
 Private Call,OE3JWC Josef,,,Austria,2323414
 Private Call,OE3JDA Josef,Mauer-Oehling,,Austria,2323415
 Private Call,OE3GNB Franz,,,Austria,2323416
@@ -91172,7 +91195,7 @@ Private Call,G0UQP Fred Waters,Washington,,United Kingdom,2349094
 Private Call,M7RSF Stuart,Falmouth,,United Kingdom,2349096
 Private Call,M7CSW Paul,Ilfracombe,,United Kingdom,2349097
 Private Call,2E0VRS David,Northampton,,United Kingdom,2349098
-Private Call,2E0IWK Dean,BARNSLEY,,United Kingdom,2349100
+Private Call,2E0IWK Dean,Barnsley,England,United Kingdom,2349100
 Private Call,M7HNK Jan Henkins,Warlingham,,United Kingdom,2349101
 Private Call,G8VJG Keith,Swanley,,United Kingdom,2349102
 Private Call,M3PSF Titanic,Redditcc,,United Kingdom,2349103
@@ -97155,7 +97178,7 @@ Private Call,M0NOJ Jon,Cambridge,England,United Kingdom,2358053
 Private Call,2E0PHG Seb,Dorset,England,United Kingdom,2358054
 Private Call,GM4RMK Raymond,Oban,Scotland,United Kingdom,2358063
 Private Call,M7EYL James,Guildford,England,United Kingdom,2358066
-Private Call,M7MYW Bela,Sutton,England,United Kingdom,2358068
+Private Call,M0SZB Bela,Sutton,England,United Kingdom,2358068
 Private Call,G0MVT Wd,Bignall End Stoke On Trent,England,United Kingdom,2358069
 Private Call,2I0WNC Thomas,Larne,Northern Ireland,United Kingdom,2358070
 Private Call,M7SZS Sheryl,None,England,United Kingdom,2358075
@@ -97414,6 +97437,7 @@ Private Call,G8WHO The,Easingwold,England,United Kingdom,2358613
 Private Call,G4NYI Nigel,Easingwold,England,United Kingdom,2358614
 Private Call,G8TMS Trolleybus,Easingwold,England,United Kingdom,2358615
 Private Call,G7KAH paul,Ashford,England,United Kingdom,2358616
+Private Call,M0NSZ Richard,Bristol,England,United Kingdom,2358617
 Private Call,M0KYA Jacek,Bradford,England,United Kingdom,2358618
 Private Call,M7XUL Anthony,St Albans,England,United Kingdom,2358620
 Private Call,M7JRA James,Culcheth,England,United Kingdom,2358621
@@ -97746,6 +97770,7 @@ Private Call,M7NTV Dave,Ludlow,England,United Kingdom,2359129
 Private Call,G5ASJ Alanjones,Exeter,England,United Kingdom,2359130
 Private Call,2E0AWA Adam,West Sussex,England,United Kingdom,2359131
 Private Call,M0BQF Mick,Stafford,England,United Kingdom,2359132
+Private Call,M7NXQ Marcin,Caldercruix,Scotland,United Kingdom,2359133
 Private Call,M0NCS Northumberland County Scouts,Allendale,England,United Kingdom,2361907
 Private Call,M1ROK Robbie,Appley Bridge,England,United Kingdom,2370000
 Private Call,M0UMM Andrey,London,England,United Kingdom,2370707
@@ -101236,6 +101261,7 @@ Private Call,LB7RK Giacinto,Krokstadelva,Buskerud,Norway,2420668
 Private Call,LB7SK Oivind,Horten,Vestfold,Norway,2420669
 Private Call,LB0FJ Adrian,Vettre,Akershus,Norway,2420670
 Private Call,LA8ZIA Jorn,Halden,Ostfold,Norway,2420671
+Private Call,LB0MJ Damiano,Royse,Buskerud,Norway,2420672
 Private Call,LA6VMA Tommy,Dal,,Norway,2421001
 Private Call,LA7ZKA Arve,Trollasen,Akershus,Norway,2421007
 Private Call,LA5FRA Paul Henrik,Haslum,,Norway,2421008
@@ -103512,7 +103538,7 @@ Private Call,R2DRS Maks,,,Russia,2502084
 Private Call,R2DSN Anton,,,Russia,2502085
 Private Call,UB2FCD Tamara,,,Russia,2502087
 Private Call,R2AUF Sergey,,,Russia,2502096
-Private Call,R2FAQ Andrey,,,Russia,2502097
+Private Call,R2FAQ Andrey,Kaliningrad,All Regions,Russia,2502097
 Private Call,R2AHI Tonya,,,Russia,2502100
 Private Call,R2DID Viktor,,,Russia,2502101
 Private Call,R2DBE Yuri,,,Russia,2502112
@@ -104638,6 +104664,7 @@ Private Call,UR5BLI Vasyl,Zbarazh Ternopil Region,All Regions,Ukraine,2550955
 Private Call,UR5NIP Volodymyr,Vinnytsia,All Regions,Ukraine,2550956
 Private Call,US5NFZ Yuri,Null,All Regions,Ukraine,2550957
 Private Call,UT4URJ Kostiantyn,Kyiv,All Regions,Ukraine,2550958
+Private Call,UR5YPV Vasyl,Chernivtsi,All Regions,Ukraine,2550959
 Private Call,EW7AS Uladzimir,Klimovichi,All Regions,Belarus,2570002
 Private Call,EU1ADI Aliaksei,Minsk,,Belarus,2570003
 Private Call,EW1ADG Dzmitry,Minsk,,Belarus,2570004
@@ -110737,7 +110764,7 @@ Private Call,DM1SB Stephan,Wetzlar,,Germany,2626920
 Private Call,DD9FY Bernd Schneider,Dietzenbach,,Germany,2626922
 Private Call,DL9FAH Walter,Greifenstein,,Germany,2626924
 Private Call,DL2FBI Ralf,Meldorf,,Germany,2626925
-Private Call,DL0SGK Segler Gruppe Kassel,Kassel,,Germany,2626926
+Private Call,DL0SGK Segler,Kassel,Hessen,Germany,2626926
 Private Call,DD8ZY Stefan,Korbach,,Germany,2626928
 Private Call,DB2ZR Rolf,Frankfurt,,Germany,2626929
 Private Call,DO3SAS Sascha Schmitt,Hofheim,,Germany,2626930
@@ -113964,7 +113991,7 @@ Private Call,DF5KX Chris,Ihlow,,Germany,2633654
 Private Call,DB6BW Lars,Geestland,,Germany,2633656
 Private Call,DD9BW Sascha,Wallenhorst,Niedersachsen Bremen,Germany,2633657
 Private Call,DC7FL Knut,Reessum,,Germany,2633660
-Private Call,DL6YEA Thomas,Oetzen,,Germany,2633661
+Private Call,DL6YEA Thomas,Oetzen,Niedersachsen Bremen,Germany,2633661
 Private Call,DB3MAX Max,Ribnitz-Damgarten,Sachsen-Anhalt Mecklenburg-Vorpommen,Germany,2633664
 Private Call,DO1JRI Joerg,Bramsche,,Germany,2633665
 Private Call,DO1REH Mitja,Rosengarten,Niedersachsen Bremen,Germany,2633666
@@ -115176,10 +115203,17 @@ Private Call,DO4FT Thorsten,Usingen,Hessen,Germany,2636455
 Private Call,DN9PA Petra,Remscheid,Nordrhein-Westfalen,Germany,2636456
 Private Call,DL2XAJ Joris,Hamburg,Hamburg Schleswig-Holstein,Germany,2636457
 Private Call,DO3AXL Alexander,Weingarten,Baden-Wuerttemberg,Germany,2636458
-Private Call,DO8MH Markus,Kempten,Bayern,Germany,2636459
+Private Call,DO8MH Hingele,Kempten,Bayern,Germany,2636459
 Private Call,DO5WT Tobias,Pfullingen,Baden-Wuerttemberg,Germany,2636460
 Private Call,DL1HEE Andre,Oer-Erkenschwick,Nordrhein-Westfalen,Germany,2636461
 Private Call,DL5OAH Klaus,Estorf,Niedersachsen Bremen,Germany,2636462
+Private Call,DO6PI Sascha,Binsfeld,Rheinland-Pfalz Saarland,Germany,2636463
+Private Call,DN9TLA Tim,Bremen,Niedersachsen Bremen,Germany,2636464
+Private Call,DO4KT Rafael,Delbrueck,Nordrhein-Westfalen,Germany,2636465
+Private Call,DO3EP Manuel,Neukirch,Sachsen Thueringen,Germany,2636466
+Private Call,DL4YEL Robert,Waltrop,Nordrhein-Westfalen,Germany,2636467
+Private Call,DH4TOM Christian,Neubukow,Sachsen-Anhalt Mecklenburg-Vorpommen,Germany,2636468
+Private Call,DL1FFB Frank,Berlin,Berlin Brandenburg,Germany,2636469
 Private Call,DK7OJ Klaus,Sauldorf,Baden-Wuerttemberg,Germany,2637003
 Private Call,DD4GY Manfred p,Haigerloch,,Germany,2637004
 Private Call,DL5TK DL5TK,Breisach,,Germany,2637005
@@ -118248,7 +118282,7 @@ Private Call,LZ6RR Rossen,Sofia,,Bulgaria,2840540
 Private Call,LZ1SEN Milko,Stara Zagora,,Bulgaria,2840541
 Private Call,LZ2ICI Ivan,Ruse,,Bulgaria,2840543
 Private Call,LZ2MY Mitko,Vratza,,Bulgaria,2840544
-Private Call,LZ1AXZ Aleksandar,Sandanski,,Bulgaria,2840546
+Private Call,LZ1AXZ Aleksandar,Sandanski,Blagoevgrad,Bulgaria,2840546
 Private Call,LZ1GIB Ivo,Sofia,,Bulgaria,2840547
 Private Call,LZ1NXX Nikolay,Koprivshtitsa,,Bulgaria,2840548
 Private Call,LZ1YZF Kiril,sofia,,Bulgaria,2840549
@@ -124013,6 +124047,9 @@ Private Call,TA7MCM Murat,Ordu,Black Sea Region,Turkiye,2868363
 Private Call,TA2RTW Yusuf,Ankara,Central Anatolia Region,Turkiye,2868364
 Private Call,TA4SGN Saygin,Mugla,Aegean Region,Turkiye,2868365
 Private Call,TA6ND Mehmet,Ankara,Central Anatolia Region,Turkiye,2868366
+Private Call,TA7EYY Emre,Kayseri,Central Anatolia Region,Turkiye,2868367
+Private Call,TB1ERA Ercumend,Istanbul,Marmara Region,Turkiye,2868368
+Private Call,TA1OZV Tayfun,Istanbul,Marmara Region,Turkiye,2868369
 Private Call,OY1DZ Oy1dz,Hoyvik,,Faroe Islands,2880002
 Private Call,OY5X Oy5x,Hoyvik,,Faroe Islands,2880003
 Private Call,OY4HQ Hans,Thisted,,Faroe Islands,2880004
@@ -126036,6 +126073,7 @@ Private Call,VE3VFF Bill,Maidstone,Ontario,Canada,3023155
 Private Call,VE3VFF Bill,Maidstone,Ontario,Canada,3023156
 Private Call,VE3TIZ John,Windsor,Ontario,Canada,3023164
 Private Call,VE3MNP Mike,Toronto,Ontario,Canada,3023168
+Private Call,VA3PAK Kam,Markham,Ontario,Canada,3023171
 Private Call,VE3VOG Dan,Windsor,Ontario,Canada,3023182
 Private Call,VY1JN Daria,Toronto,Ontario,Canada,3023190
 Private Call,VA3RZS Richard,Peterborough,Ontario,Canada,3023197
@@ -126332,6 +126370,7 @@ Private Call,VE3XDS David M.,Waterloo,Ontario,Canada,3023926
 Private Call,VE3UG Richard Gordon,Brantford,Ontario,Canada,3023927
 Private Call,VE3IQL Terrance Cady,Ancaster,Ontario,Canada,3023931
 Private Call,VE3HG Peter Lee,Oakville,Ontario,Canada,3023938
+Private Call,VA3JME Jamie,Ottawa,Ontario,Canada,3023944
 Private Call,VA3DDN Donald E,Pickering,Ontario,Canada,3023946
 Private Call,VE3HRJ Jack Hr Hepworth,Rosseau,Yukon,Canada,3023947
 Private Call,VA7FLH Darin,West Kelowna,British Columbia,Canada,3023948
@@ -126342,6 +126381,7 @@ Private Call,VE3CQI Victor,Toronto,Ontario,Canada,3023965
 Private Call,VE3BWV Michael Nicholas,Scarborough,Ontario,Canada,3023969
 Private Call,VA3AZA Brian,Mississauga,Ontario,Canada,3023970
 Private Call,VE3TFR Tecumseh Fire Rescue,Tecumseh,Ontario,Canada,3023971
+Private Call,VA3JME Jamie,Ottawa,Ontario,Canada,3023976
 Private Call,VE3GDN Gordon,Alexandria,Ontario,Canada,3023985
 Private Call,VE3BGX AllStarLink,Ottawa,Ontario,Canada,3023986
 Private Call,VA3JRH James Robert,Stratford,Ontario,Canada,3023992
@@ -128022,6 +128062,7 @@ Private Call,VE3KDQ Kenneth,Killaloe,Ontario,Canada,3027162
 Private Call,VA2KTZ Roger,Metabetchouan,Quebec,Canada,3027163
 Private Call,VE7EQU Andrew Edwin,Prince George,British Columbia,Canada,3027164
 Private Call,VE7IJJ Dennis Wight,Terrace,British Columbia,Canada,3027167
+Private Call,VE7ZCC Zenon,Surrey,British Columbia,Canada,3027168
 Private Call,VE7MF Danilo C,Surrey Bc,British Columbia,Canada,3027169
 Private Call,VA7AGE Rod J,Comox,British Columbia,Canada,3027170
 Private Call,VE7RJN Jose Chavez,Port Coquitlam,British Columbia,Canada,3027171
@@ -128136,6 +128177,7 @@ Private Call,VE7FM Steven,Langley,British Columbia,Canada,3027374
 Private Call,VO1BAM John,Conception Bay South,Newfoundland,Canada,3027375
 Private Call,VE2EN Roger,Thetford Mines,Quebec,Canada,3027376
 Private Call,VO1GC Gerald,St JohnS,Newfoundland,Canada,3027377
+Private Call,VA7NRC Brendan,West Vancouver,British Columbia,Canada,3027378
 Private Call,VE3GCT Gary Crawford,North York,Yukon,Canada,3028005
 Private Call,VY1BAT Wolf,Whitehorse,Yukon,Canada,3028010
 Private Call,VA3QU Chris Kang,North York,Yukon,Canada,3028011
@@ -128787,6 +128829,7 @@ Private Call,WP4TYI Jose,San Juan,All Regions,Puerto Rico,3300735
 Private Call,WP4TZM Juan,Arecibo,All Regions,Puerto Rico,3300736
 Private Call,WP4TWI Maritza,Toa Alta,All Regions,Puerto Rico,3300737
 Private Call,WP4PQX Ricardo,Cayey,All Regions,Puerto Rico,3300738
+Private Call,WP4TWT Luis,Humacao,All Regions,Puerto Rico,3300739
 Private Call,WP4OV Juan,Hatillo,,Puerto Rico,3301001
 Private Call,WP4OTW Carla,San Juan,,Puerto Rico,3301002
 Private Call,NP4ET Jose,Hatillo,,Puerto Rico,3301003
@@ -130125,6 +130168,7 @@ Private Call,HI9R Roberto,Santo Domingo Este,Santo Domingo,Dominican Republic,37
 Private Call,HI6JAE URAZUA,Azua,Azua,Dominican Republic,3700147
 Private Call,HI8CRD Hugo,Santo Domingo,Distrito Nacional,Dominican Republic,3700150
 Private Call,HI8LPR Luis,Santo Domingo Oeste,Santo Domingo,Dominican Republic,3700151
+Private Call,HI4NCE Cesar Espinal,Castanuelas,Monte Cristi,Dominican Republic,3700152
 Private Call,HI8J Juan,Santo Domingo,Distrito Nacional,Dominican Republic,3701003
 Private Call,HI8R Rigoberto,Santo Domingo,Distrito Nacional,Dominican Republic,3701004
 Private Call,HI1LT Loma Del Toro Dx Club,Beata,Isla Beata,Dominican Republic,3701005
@@ -130657,6 +130701,7 @@ Private Call,UN7GAT Anatoly,Almaty,Almaty,Kazakhstan,4010187
 Private Call,UN4GAM Arthur,Almaty,Almaty,Kazakhstan,4010188
 Private Call,UN6GMI Maxim,Almaty,Almaty,Kazakhstan,4010189
 Private Call,UN7BMU Berik,Kokshetau,Akmola,Kazakhstan,4010190
+Private Call,UN7BKU Pavel,Kokshetau,Akmola,Kazakhstan,4010191
 Private Call,UN9LEI Valery,,Kastanay,Kazakhstan,4016001
 Private Call,VU3KAZ Krishna,Bangalore,Karnataka,India,4040001
 Private Call,VU3OBQ George,Cochin,Kerala,India,4040002
@@ -132320,7 +132365,7 @@ Private Call,4X5LB Bani,Herzliya,Central,Israel,4250213
 Private Call,4X6FR Zvi,Herzliyya,,Israel,4250214
 Private Call,4Z4NU Raanan,Kiryat Ata,Northern,Israel,4250216
 Private Call,4Z4BJ Eyal,Maale Tsvia,Northern,Israel,4250217
-Private Call,4X5IV Ilan,Rosh Haain,Central,Israel,4250218
+Private Call,4X1IV Ilan,Rosh Haain,Central,Israel,4250218
 Private Call,4X5CG Guy,Nes Ziona,Central,Israel,4250220
 Private Call,4Z9HGY Shlomo,Maalot,Haifa,Israel,4250221
 Private Call,4X6LP Avi,Hod Hasharon,Central,Israel,4250222
@@ -135125,7 +135170,6 @@ Private Call,JO2CIA Kondo,AMA-CITY,Tokai,Japan,4402562
 Private Call,JI1CKD sebata,chikusei,Kanto,Japan,4402563
 Private Call,JQ3KOT Takashi,Kameoka,Kinki,Japan,4402564
 Private Call,JL1AXV Ito,Hasuda-city,Kanto,Japan,4402565
-Private Call,JQ3BAM HAYASHI,HIMEJI,Kinki,Japan,4402567
 Private Call,JQ3KRL Chieko,Kameoka,Kinki,Japan,4402568
 Private Call,JR1IXQ Anzai,Yokohama,Kanto,Japan,4402569
 Private Call,JR8UXH Rikiya,Yokohama,Kanto,Japan,4402570
@@ -135267,6 +135311,7 @@ Private Call,JS1YGB Nasu Chuo AMC,Nasu Town,Kanto,Japan,4402716
 Private Call,JP7MWT Yasunobu,Natori,Tohoku,Japan,4402717
 Private Call,JS2XOC Yoshinao,Nagoyacity,Tokai,Japan,4402718
 Private Call,JR9GUZ Teraguchi,Kanazawa,Hokuriku,Japan,4402719
+Private Call,JQ3BAM Hayashi,Himeji,Kinki,Japan,4402720
 Private Call,JP3KAF Ryusho,Nishinomiya,Kinki,Japan,4403001
 Private Call,JA3GQJ Shuji,Takatuki Osaka,,Japan,4403003
 Private Call,JA3GQJ Shuji,Takatuki Osaka,,Japan,4403004
@@ -137369,6 +137414,7 @@ Private Call,DS5FXN Taekyeong,Cheonna,ChungChong Nam-Do,Korea Republic of,450209
 Private Call,DS1VCD Jinhyung,Mapogu,Seoul,Korea Republic of,4502092
 Private Call,DS2FJQ Soung-Ja,Suwon,Gyeonggi Province,Korea Republic of,4502093
 Private Call,DS1UZU Kim,Kor,Seoul,Korea Republic of,4502094
+Private Call,DS4BSG baeg inseon,Yeong-Gwang,Jeonlla Nam Do,Korea Republic of,4502095
 Private Call,HL4CNR Kevin,Jeju-city,CheJu-Do,Korea Republic of,4503001
 Private Call,DS4RMX Ma,Iksan,Jeonlla Buk-Do,Korea Republic of,4503003
 Private Call,DS4CPN Keumyeon,Nam-myeon,Jeonlla Nam Do,Korea Republic of,4503004
@@ -139679,7 +139725,7 @@ Private Call,BG3NCP Peter,Tangshan City,Shanxi Hebei Tianjin,China,4601908
 Private Call,BH4BQL wefeng,shanghai,Zhejiang Fujian Jiangxi,China,4601909
 Private Call,BD3MWO Zhaofu,TangShan,Shanxi Hebei Tianjin,China,4601910
 Private Call,BH6ODC Zhi,LuoYang,Henan Hubei Anhui,China,4601911
-Private Call,BG6IFW jingtao,pingdingshan,Henan Hubei Anhui,China,4601912
+Private Call,BG6IFW Jingtao,pingdingshan,Henan Hubei Anhui,China,4601912
 Private Call,BD4SQX Xu,SuZhou,Shanghai Shandong Jiangsu,China,4601913
 Private Call,BI3LIX Xue,ZunHua,Shanxi Hebei Tianjin,China,4601914
 Private Call,BG2EFW Chang,Daqing,Heilongjiang Jilin Liaoning,China,4601916
@@ -142743,7 +142789,7 @@ Private Call,BG9HMS Hao,lanzhou,Shaanxi Ningxia Gansu Qinghai,China,4605509
 Private Call,BH3MQE Xin,Tangshan City,,China,4605510
 Private Call,BH8AUY Jian,Chengdu,,China,4605511
 Private Call,BI4KKY Kai,Linyi City,Shanghai Shandong Jiangsu,China,4605512
-Private Call,BI6LWV Stone,Beijing,Beijing,China,4605513
+Private Call,BI6LWV Shi,Zhengzhou,Henan Hubei Anhui,China,4605513
 Private Call,BG2UDJ Shizhong,Shenyang,Heilongjiang Jilin Liaoning,China,4605514
 Private Call,BG2TFW Wei,Shenyang,Heilongjiang Jilin Liaoning,China,4605515
 Private Call,BH7FHQ 梁华,湖南长沙,Hunan Guangdong Guangxi Hainan,China,4605516
@@ -147375,6 +147421,7 @@ Private Call,BH7GZO Yueyan,changsha,Hunan Guangdong Guangxi Hainan,China,4611176
 Private Call,BH1XVY Lei,Tian Jin,Shanxi Hebei Tianjin,China,4611178
 Private Call,BG9JOB 喜伟,wuwei,Shaanxi Ningxia Gansu Qinghai,China,4611179
 Private Call,BI1TED Yao,Bei Jing,Beijing,China,4611182
+Private Call,BI1FRI Zhenhai,Mentougou,Beijing,China,4611183
 Private Call,BI4KLE Gao,Yantai,Shanghai Shandong Jiangsu,China,4611184
 Private Call,BI7KIF Liqiu,Chaozhou Guangdong,Hunan Guangdong Guangxi Hainan,China,4611185
 Private Call,BD3PSX Ziyuan,Beijing,Beijing,China,4611186
@@ -149757,7 +149804,7 @@ Private Call,BG8ORV Yongqi,Pan,,China,4614218
 Private Call,BA4IUX Weibogong,Linyi,Shanghai Shandong Jiangsu,China,4614219
 Private Call,BG9JYT Qin,Dunhuang Jiuquan,Shaanxi Ningxia Gansu Qinghai,China,4614221
 Private Call,BG6QWY Bin,Guo,Henan Hubei Anhui,China,4614225
-Private Call,BH8RET Zhou,Zunyi,,China,4614226
+Private Call,BH8RET Zhou,Zunyi,Sichuan Guizhou Chongqing Yunnan,China,4614226
 Private Call,BD1BMC Quanrunqi,Beijing,Beijing,China,4614227
 Private Call,BH5HTS Shenyujie,Hangzhou,Zhejiang Fujian Jiangxi,China,4614229
 Private Call,BI3MNR Hui,Hengshui City Hebei Province,Shanxi Hebei Tianjin,China,4614231
@@ -151142,6 +151189,7 @@ Private Call,BA4QXB Wang,Wuxi,Shanghai Shandong Jiangsu,China,4616233
 Private Call,BG2NBM Qiang,Changchunshi,Heilongjiang Jilin Liaoning,China,4616234
 Private Call,BG2GVG Liulijun,Jiamusi,Heilongjiang Jilin Liaoning,China,4616235
 Private Call,BI8SXQ Dengchao,Kunming,Sichuan Guizhou Chongqing Yunnan,China,4616236
+Private Call,BH3IKA Qiang,Hohhot,Inner Mongolia,China,4616237
 Private Call,BA4KJQ Zhang,Weihai,Shanghai Shandong Jiangsu,China,4616238
 Private Call,BD1EYQ Weihu,Beijing,Beijing,China,4616239
 Private Call,BI7EOJ Xiongwei,Changde,Hunan Guangdong Guangxi Hainan,China,4616240
@@ -151159,6 +151207,12 @@ Private Call,BD1EXE Xinliang,Beijing,Beijing,China,4616251
 Private Call,BH6TJR Haisu,Wuhan,Henan Hubei Anhui,China,4616252
 Private Call,BG7PKD Haiwen,P.D.J.C.G.Province,Hunan Guangdong Guangxi Hainan,China,4616253
 Private Call,BI1XYV Songwei,Wuxi,Shanghai Shandong Jiangsu,China,4616254
+Private Call,BG5CVF Dong-Geng,Zhejian Shaoxing,Zhejiang Fujian Jiangxi,China,4616255
+Private Call,BH5HKL Lin,Hangzhou,Zhejiang Fujian Jiangxi,China,4616256
+Private Call,BD6KVH Hesk,Nanyang,Henan Hubei Anhui,China,4616257
+Private Call,BH6REA Haikan,Jingmen,Henan Hubei Anhui,China,4616258
+Private Call,BG7PHG Hong,Shenzhen,Hunan Guangdong Guangxi Hainan,China,4616259
+Private Call,BD1EYT Stawis,Beijing,Beijing,China,4616260
 Private Call,BH1CWK Yongfeng,Beijing,Beijing,China,4616661
 Private Call,BH4HOK DI,Shanghai,Beijing,China,4616688
 Private Call,BI7IOB Lin,Foshan,Hunan Guangdong Guangxi Hainan,China,4617108
@@ -152419,7 +152473,7 @@ Private Call,9M6II Peter,Kota Kinabalu Sabah,,Malaysia,5020560
 Private Call,9W3YUS Yusri Hadzeen,pulau pinang,West Malaysia,Malaysia,5020561
 Private Call,9W6MKN Mervynn,Kinabalu,East Malaysia,Malaysia,5020562
 Private Call,9W2CVT Mohd Yusof,West Malaysia,West Malaysia,Malaysia,5020563
-Private Call,9W2PGH Pakngah,Kulim,West Malaysia,Malaysia,5020564
+Private Call,9W2PGH Rahim,Kulim,West Malaysia,Malaysia,5020564
 Private Call,9W6PC Hon Ming,Kota Kinabalu,East Malaysia,Malaysia,5020567
 Private Call,9W2MLV Amir Akmal,Jenjarom,West Malaysia,Malaysia,5020568
 Private Call,9W2RKN Razuki,Kuala Lumpur,West Malaysia,Malaysia,5020569
@@ -152505,7 +152559,7 @@ Private Call,9W2VID Aidil,Tanjong Karang,West Malaysia,Malaysia,5020672
 Private Call,9W2PNG Zin,Penang,West Malaysia,Malaysia,5020673
 Private Call,9M2SWI Suswadi,Kg Batu Karang Pasir Mas Kelantan,West Malaysia,Malaysia,5020675
 Private Call,9W2PEF Zairi,Indera Mahkota,West Malaysia,Malaysia,5020676
-Private Call,9W2KKO Mohd,Kuantan,West Malaysia,Malaysia,5020677
+Private Call,9W2KKO Akmal,Kuantan,West Malaysia,Malaysia,5020677
 Private Call,9W2FQT Faiq,Rawang,West Malaysia,Malaysia,5020678
 Private Call,9W2HDS Hadi,Puchong Cyberjaya,West Malaysia,Malaysia,5020679
 Private Call,9M2ENA Mr,Kuantan,East Malaysia,Malaysia,5020680
@@ -152628,6 +152682,15 @@ Private Call,9M2ATM Afizan,Kuala Terengganu,West Malaysia,Malaysia,5020834
 Private Call,9W8LLY Lelan,Miri,East Malaysia,Malaysia,5020835
 Private Call,9W2GFA Mohd,Karak,West Malaysia,Malaysia,5020836
 Private Call,9M2VIN Saarvin,Ayer Itam,West Malaysia,Malaysia,5020837
+Private Call,9W2HZZ Hafizuddin,Tumpat,West Malaysia,Malaysia,5020838
+Private Call,9W2FLX Faizal,Temerloh,East Malaysia,Malaysia,5020839
+Private Call,9W2TZP Tengku,Air Panas Setapak Kuala Lumpur,West Malaysia,Malaysia,5020840
+Private Call,9W2XCW Akmar,Kajang,West Malaysia,Malaysia,5020841
+Private Call,9W2MMT Samat,Senai Johor,West Malaysia,Malaysia,5020842
+Private Call,9M2LEE Muhamad,Batu Gajah,East Malaysia,Malaysia,5020843
+Private Call,9W2WBI Mohammed,Shah Alam,East Malaysia,Malaysia,5020844
+Private Call,9W3MLY Minglee,Kuala Lumpur,West Malaysia,Malaysia,5020845
+Private Call,9W2BYX Shahrizan,Johor,East Malaysia,Malaysia,5020846
 Private Call,9M2AOC Alexander,Bayan Lepas,,Malaysia,5022001
 Private Call,9M2SF See,ISland Glades,,Malaysia,5022002
 Private Call,9M2PEN Soon,Taman Sri Nibong,,Malaysia,5022003
@@ -156439,6 +156502,9 @@ Private Call,VK3WLD Shane,Clyde,Victoria,Australia,5054516
 Private Call,VK2GPS Mayank,Sydney,New South Wales,Australia,5054517
 Private Call,VK4QFD Shannon,Brisbane,Queensland,Australia,5054518
 Private Call,VK6DF Jonathan,Perth,Western Australia,Australia,5054519
+Private Call,VK2MAY Andrew,Balgownie,New South Wales,Australia,5054520
+Private Call,VK2XBW Budy,Eastwood,New South Wales,Australia,5054521
+Private Call,VK2OAG Eliot,Orange,New South Wales,Australia,5054522
 Private Call,VK5RZ Stephan,Seaford Rise,South Australia,Australia,5055003
 Private Call,VK5IU Jeffrey W.,Murray Bridge,South Australia,Australia,5055004
 Private Call,VK5JP Peter,Adelaide,South Australia,Australia,5055006
@@ -156553,6 +156619,7 @@ Private Call,VK6VLF Steve,Perth,Western Australia,Australia,5056131
 Private Call,VK6YBZ Dr. Harry,Kelmscott Western A,Western Australia,Australia,5056133
 Private Call,VK6HKE Keith,Perth,Western Australia,Australia,5056134
 Private Call,VK6HKE Keith,Perth,Western Australia,Australia,5056135
+Private Call,VK6KDX Jacques,Duncraig Western Aus,Western Australia,Australia,5056137
 Private Call,VK6EEE Martin,Meadow Springs,Western Australia,Australia,5056138
 Private Call,VK6HWP William F,Perth,Western Australia,Australia,5056139
 Private Call,VK6JJM Jesse,South Yunderup,Western Australia,Australia,5056140
@@ -158182,6 +158249,8 @@ Private Call,YF3ASE Topan,Kediri,Jawa Timur,Indonesia,5101888
 Private Call,YC3DEM Siswanto,Ngadiluwih Kedri,Jawa Timur,Indonesia,5101889
 Private Call,YD3AZT Syamsul,Kediri,Jawa Timur,Indonesia,5101890
 Private Call,YD6AXX Muhammad,Banda Aceh,Aceh,Indonesia,5101891
+Private Call,YF3ARW Agus,Ngadiluwih Kediri,Jawa Timur,Indonesia,5101892
+Private Call,YG3DWO Wahyu,Tuban,Jawa Timur,Indonesia,5101893
 Private Call,DU1UGZ Ramon J.,Paranaque,National Capital Region,Philippines,5150001
 Private Call,DW1ZDR Audie O.,Pasig City,National Capital Region,Philippines,5150002
 Private Call,DW1ZDQ Gazelle,Pasig City,National Capital Region,Philippines,5150003
@@ -161100,7 +161169,6 @@ Private Call,HS4HLW surachit,mueng,Khon Kaen,Thailand,5200996
 Private Call,HS6TIM Naowarat,,Pathum Thani,Thailand,5200997
 Private Call,E25AFQ Chanawee,Ratchathewi Bangkok,,Thailand,5200998
 Private Call,E25GUN Piyakorn,Bangkhen,Bangkok,Thailand,5200999
-Private Call,HS8YBK preecha,thailand,Chumphon,Thailand,5201000
 Private Call,HS0ZNJ Andreas,Udon Thani,Udon Thani,Thailand,5201001
 Private Call,HS8JDX Sakonthon,Nongbualumpu,Udon Thani,Thailand,5201002
 Private Call,E25IYD Thipakon,Bangkok,Bangkok,Thailand,5201003
@@ -161753,6 +161821,7 @@ Private Call,E24RZL Alongkot,Bangplee,Samut Prakan,Thailand,5201692
 Private Call,E23YAG Armat,Moung,Nakhon Sawan,Thailand,5201693
 Private Call,E24MEU Danai,Bangkok,Bangkok,Thailand,5201694
 Private Call,HS4SGN Jamnong,kohsamui,Surat Thani,Thailand,5201696
+Private Call,HS8KYB Peerapong,Chulaporn Nakhon Si Thammarat,Nakhon Si Thammarat,Thailand,5201698
 Private Call,HS9QAH Mr Sathian,Hatyai Songkhla,Songkhla,Thailand,5201699
 Private Call,E25IGA Songpol,Udonthani,Udon Thani,Thailand,5201700
 Private Call,E29EWF Tharathorn,A Muang Ratchaburi,Ratchaburi,Thailand,5201701
@@ -162193,6 +162262,17 @@ Private Call,E26CXH Jateniphat,Bangkok,Bangkok,Thailand,5202201
 Private Call,HS7AT Sangtein Amateur Radio League of Samutsakorn,Muang Samutsakhon,Samut Sakhon,Thailand,5202202
 Private Call,E26AIU Kumpanat,Phutsa Subdistrict,Nakhon Ratchasima,Thailand,5202203
 Private Call,E26CLB Sky,Mueang,Ubon Ratchathani,Thailand,5202204
+Private Call,E26CHX Ekkarin,Phanatnikhom,Chon Buri,Thailand,5202205
+Private Call,HS4YYY Pornnarin,Muang,Samut Prakan,Thailand,5202206
+Private Call,E25WFM Kitiphong,Phusang,Phayao,Thailand,5202207
+Private Call,E27GQR Jaray,Banchang,Rayong,Thailand,5202208
+Private Call,E25DAZ Kasidit,Muang,Rayong,Thailand,5202209
+Private Call,E25XCU Thanapong,Krabi,Krabi,Thailand,5202210
+Private Call,E25ZRM Suradate,Banna,Nakhon Nayok,Thailand,5202211
+Private Call,E29VKV Nikom,Ron Phibun,Nakhon Si Thammarat,Thailand,5202212
+Private Call,E29UYY Thammarat,Thailand,Chumphon,Thailand,5202213
+Private Call,HS1HOS Thawatchai,Bangkok,Bangkok,Thailand,5202214
+Private Call,HS8ZJC Kritpakorn,Bantakun,Surat Thani,Thailand,5202215
 Private Call,HS0ZET Ralf,Nongkrot,Nakhon Sawan,Thailand,5206001
 Private Call,HS3LIQ WiwatM,Digital Radio,Nakhon Ratchasima,Thailand,5206002
 Private Call,9V1JC Wiyanto,Singapore,Singapore,Singapore,5250001
@@ -164214,6 +164294,8 @@ Private Call,ZS6ERB East,Benoni,Gauteng,South Africa,6550463
 Private Call,ZS1MJT Michael,Cape Town,Cape,South Africa,6550464
 Private Call,ZS1RCM Richard,Cape Town,Cape,South Africa,6550465
 Private Call,ZS5JRH Julian,Durban,Kwazulu-Natal,South Africa,6550466
+Private Call,ZS5ADL Martin,Scottburgh,Kwazulu-Natal,South Africa,6550467
+Private Call,ZS5CV Chan,Durban,Kwazulu-Natal,South Africa,6550468
 Private Call,ZS1JPL Johan,Capetown,Cape,South Africa,6551001
 Private Call,ZS6AGB AG,Johannesburg,,South Africa,6551002
 Private Call,ZS1V Paul,Cape Town,,South Africa,6551003
@@ -165884,7 +165966,7 @@ Private Call,LU9HSC Sergio,Salsipuedes,Cordoba,Argentina Republic,7220708
 Private Call,LU1ATI Guillermo,Buenos Aires C A B A,Ciudad de Buenos Aires,Argentina Republic,7220709
 Private Call,LU6YSE Erwin,Neuquén,,Argentina Republic,7220710
 Private Call,LU4DOV Alejandro L,Valentin Alsina,Buenos Aires,Argentina Republic,7220713
-Private Call,LU8IEZ Víctor Rolando,Posadas,,Argentina Republic,7220714
+Private Call,LU8IEZ Victor,Posadas,Misiones,Argentina Republic,7220714
 Private Call,LU2XVD Victor,RIO GRANDE,Tierra del Fuego,Argentina Republic,7220715
 Private Call,LU1DQY Gustavo,Merlo,Buenos Aires,Argentina Republic,7220716
 Private Call,LW2DCJ Francisco Hugo,san miguel,Buenos Aires,Argentina Republic,7220717
@@ -167063,6 +167145,10 @@ Private Call,LU1BGO Gabriel,Buenos Aires Caba,Ciudad de Buenos Aires,Argentina R
 Private Call,LU9MDQ Gustavo,Chacras De Coria,Mendoza,Argentina Republic,7222296
 Private Call,LW7ENO Aldo,Henderson,Buenos Aires,Argentina Republic,7222297
 Private Call,LU4HTI Marcelo,Cordoba Cap,Cordoba,Argentina Republic,7222298
+Private Call,LU2EZW Daniel,San Martin,Buenos Aires,Argentina Republic,7222299
+Private Call,LU9CZT Sebas,Ciudad De Buenos Aires,Ciudad de Buenos Aires,Argentina Republic,7222300
+Private Call,LU1AJQ Juan,Buenos Aires,Ciudad de Buenos Aires,Argentina Republic,7222301
+Private Call,LU2ARO LU5CBA,Caba,Caba,Argentina Republic,7222302
 Private Call,LU1JMA Jose Manuel,Concepcion Del Urugu,Entre Rios,Argentina Republic,7223001
 Private Call,LU1UFC Adrián Pablo,General Pico,La Pampa,Argentina Republic,7224001
 Private Call,LU4MDC Dario Luis,San Carlos,Mendoza,Argentina Republic,7224002
@@ -167749,6 +167835,7 @@ Private Call,PU2MEJ Marco Antonio,Sao Paulo,Sao Paulo,Brazil,7240824
 Private Call,PU4YZQ Luiz Augusto,Nova Serrana,Minas Gerais,Brazil,7240825
 Private Call,PY2GOE Cabral Ricardo,Taboao da Serra,Sao Paulo,Brazil,7240827
 Private Call,PU2TQD Jose,Sao Vicente,Sao Paulo,Brazil,7240829
+Private Call,PY1JMS Marcolino,Marica,Rio de Janeiro,Brazil,7240830
 Private Call,PY5NCD Nilson,Curitiba,Parana,Brazil,7240831
 Private Call,PU1MYM Samuel Diniz,Marica,Rio de Janeiro,Brazil,7240833
 Private Call,PY5QQ Jose Maria Saenz de,Toledo,Parana,Brazil,7240834
@@ -172452,6 +172539,7 @@ Private Call,PU2SOV Sergio,Sao Paulo,Sao Paulo,Brazil,7246933
 Private Call,PV2MAC Mateus,Itapevi,Sao Paulo,Brazil,7246934
 Private Call,PY2LLM Leandro,Joanopolis,Sao Paulo,Brazil,7246935
 Private Call,PV2ACM Mateus,Itapevi,Sao Paulo,Brazil,7246936
+Private Call,PU4CAN Ciro,Uberlandia,Minas Gerais,Brazil,7246937
 Private Call,PY1CD Chrystie,Teresopolis,Rio de Janeiro,Brazil,7246938
 Private Call,PV2TBS Fabio,Sp,Sao Paulo,Brazil,7246939
 Private Call,PU5SJE Edgar,Rolandia,Parana,Brazil,7246940
@@ -172466,6 +172554,13 @@ Private Call,PU7MAZ Faustino,Fortaleza,Ceara,Brazil,7246949
 Private Call,PU5YDB Fernando,Curitiba,Parana,Brazil,7246950
 Private Call,PY2USB Sergio,Taubate,Sao Paulo,Brazil,7246951
 Private Call,PU4LBI Rodrigo,Itabira,Minas Gerais,Brazil,7246952
+Private Call,PY4RBO Robson Borges dos Santos,Pouso Alegre,Minas Gerais,Brazil,7246953
+Private Call,PR2DCE David,Mogi Das Cruzes,Sao Paulo,Brazil,7246954
+Private Call,PY4AM Nilton,Tres Coracoes,Minas Gerais,Brazil,7246955
+Private Call,PU2YAL Andre-Incao,Ubatuba,Sao Paulo,Brazil,7246956
+Private Call,PU2KXA Arnaldo,Guarulhos,Sao Paulo,Brazil,7246957
+Private Call,PU4RIK Rickwagner,Juiz De Fora,Minas Gerais,Brazil,7246958
+Private Call,PU5LAZ Moca,Blumenau Santa Catarina,Santa Catarina,Brazil,7246959
 Private Call,PU7LSB Lucivaldo Sousa,Mossoro - Rio Grande,,Brazil,7247002
 Private Call,PT7KO Junior,Fortaleza,Ceara,Brazil,7247003
 Private Call,PT7ZYH Barros,Fortaleza - Ceara,,Brazil,7247004
@@ -173249,6 +173344,7 @@ Private Call,CE3EFG Eduardo,Santiago,Reg.Metr. de Santiago,Chile,7300839
 Private Call,CD5AEX Alejandro,Villarroel,Bio Bio,Chile,7300840
 Private Call,CE6MMC Marcos,osorno,Los Lagos,Chile,7300842
 Private Call,CD2SYR Sebastian,Viña del Mar,Valparaiso,Chile,7300843
+Private Call,CD7HVR Jorge,Castro,Los Lagos,Chile,7300845
 Private Call,CA3PVW Pablo,Santiago,Reg.Metr. de Santiago,Chile,7300846
 Private Call,XQ6DUG Renato Patricio,Temuco,La Araucania,Chile,7300847
 Private Call,CA5ELA Edgardo,Chile,Bio Bio,Chile,7300848
@@ -173963,7 +174059,7 @@ Private Call,CE1RFN Delcy Antonia,El Palomar,Atacama,Chile,7301632
 Private Call,CD3PHI Rodrigo,Santiago,Reg.Metr. de Santiago,Chile,7301633
 Private Call,CD5MAC Marcos,Coronel,La Araucania,Chile,7301634
 Private Call,CD2ORR Owen Alberto,Coquimbo,Coquimbo,Chile,7301635
-Private Call,CA3FQY Franco,Santiago,Reg.Metr. de Santiago,Chile,7301636
+Private Call,CE3FQY Franco,Santiago,Reg.Metr. de Santiago,Chile,7301636
 Private Call,CA6WAE Williams,Valdivia,Los Lagos,Chile,7301637
 Private Call,CD4EQL Eliecer,Linares,Maule,Chile,7301638
 Private Call,CA3GVE Marcelo Genaro,Santiago,Reg.Metr. de Santiago,Chile,7301639
@@ -175538,6 +175634,11 @@ Private Call,CD3IKB Sergio,Nunoa,Reg.Metr. de Santiago,Chile,7303506
 Private Call,CA3CSY Danilo,Recoleta,Reg.Metr. de Santiago,Chile,7303507
 Private Call,CD1GEX Felipe,Calama,Antofagasta,Chile,7303508
 Private Call,CE3KLH Wilmer,Cerrillos Santiago,Reg.Metr. de Santiago,Chile,7303509
+Private Call,CD2EIF Jose,Valparaiso,Valparaiso,Chile,7303510
+Private Call,CD8VAC Manuel,Punta Arenas,Magallanes,Chile,7303511
+Private Call,CE8RPA Radioclub,Punta Arenas,Magallanes,Chile,7303512
+Private Call,CD5NDX Nicolas,Concepcion,Bio Bio,Chile,7303513
+Private Call,CE1PGV Carlos,Arica,Arica and Parinacota,Chile,7303514
 Private Call,CE4CSC Carlos,Cauquenes,Maule,Chile,7304001
 Private Call,CE4RAY Fernando,Cauquenes,Maule,Chile,7304003
 Private Call,CE4RMA Radio Club,Talca,Maule,Chile,7304004
@@ -175765,6 +175866,7 @@ Private Call,HJ3CGC Carlos Giovanni,Colombia,Cundinamarca,Colombia,7320155
 Private Call,HK3Y Martinez Rozo,Bogota,Cundinamarca,Colombia,7320156
 Private Call,HJ1FJC Francisco,Bogota,Cundinamarca,Colombia,7320157
 Private Call,HJ3CSH VICTOR,BOGOTA,Cundinamarca,Colombia,7320158
+Private Call,HK4VIC Victor,Betulia,Antioquia,Colombia,7320159
 Private Call,HJ7NYZ Alejandro,Duitama,Boyaca,Colombia,7320160
 Private Call,HJ3RED Ruben Eduard,Bogota,Cundinamarca,Colombia,7320161
 Private Call,HK3UOR Jhon Jaime,,Cundinamarca,Colombia,7320162
@@ -175846,6 +175948,7 @@ Private Call,HK2JCR Luis,VALLEDUPAR,Cesar,Colombia,7320256
 Private Call,HJ7WVC Wilson,Floridablanca,Santander,Colombia,7320257
 Private Call,HK7DAF Diego,Barrancabermeja,Santander,Colombia,7320258
 Private Call,HK5OKY Francisco Antonio,Cauca,Antioquia,Colombia,7320259
+Private Call,HK4VIC Victor,Betulia,Antioquia,Colombia,7320260
 Private Call,HK3CFM Carlos,Bogota,Cundinamarca,Colombia,7320261
 Private Call,HK3TMP Mauricio,Bogota,Cundinamarca,Colombia,7320262
 Private Call,HK6F Faber,Armenia,Quindio,Colombia,7320263
@@ -176740,6 +176843,9 @@ Private Call,YY5DMR Royner,Guatire,Miranda,Venezuela,7340589
 Private Call,YY5RRC Ryszard,Caracas,Distrito Capital,Venezuela,7340590
 Private Call,YY5IEM Fernando,Caracas,Distrito Capital,Venezuela,7340591
 Private Call,YY5AEZ Arnaldo,Caracas,Miranda,Venezuela,7340592
+Private Call,YV5NDM Luisa,Puerto Ordaz,Guarico,Venezuela,7340593
+Private Call,YV6AA Carlos,Barcelona,Anzoategui,Venezuela,7340594
+Private Call,YV5LFL Diego,Estado Miranda Municipio Baruta,Miranda,Venezuela,7340595
 Private Call,YV1GAG Hernedy,maracaibo,Zulia,Venezuela,7341001
 Private Call,YV1GAG Hernedy,maracaibo,Zulia,Venezuela,7341002
 Private Call,YV1AHP Heber J,Maracaibo,Zulia,Venezuela,7341004
@@ -177799,7 +177905,7 @@ Private Call,KK4ACE Chris,Deerfield Beach,Florida,United States,3205663
 Private Call,KE0WYN Charles A,Grand Island,Nebraska,United States,3154394
 Private Call,KB6CIO Bob,San Miguel,California,United States,3106543
 Private Call,W5NC Nars,Spring,Texas,United States,3146211
-Private Call,KE9EQG Brian,Chesterton,Indiana,United States,3222051
+Private Call,KE9EQG Brian,Bargersville,Indiana,United States,3222051
 Private Call,KO6NSC Dan,Riverside,California,United States,3224740
 Private Call,N5HME Joe,Cut And Shoot,Texas,United States,3201958
 Private Call,KX9RT Scott,Waupaca,Wisconsin,United States,3110924
@@ -179131,7 +179237,7 @@ Private Call,N4NSH Troy,Bean Station,Tennessee,United States,3147190
 Private Call,N6NBF Robert C,Newhall,California,United States,3165051
 Private Call,KD3BCL Daniel,Titusville,Pennsylvania,United States,3216113
 Private Call,KC3QWF Sean,Lower Burrell,Pennsylvania,United States,3174285
-Private Call,KZ4SZ Frank,Loxahatchee,Florida,United States,3216910
+Private Call,KK4PY Frank,Loxahatchee,Florida,United States,3216910
 Private Call,AF1M Mark,Weehawken,New Jersey,United States,3143775
 Private Call,W4KRS Kris,Fairhope,Alabama,United States,3210968
 Private Call,NU3S Albert J,Pittsburgh,Pennsylvania,United States,3142271
@@ -183887,7 +183993,6 @@ Private Call,W1MIT Dennis,Lafayette,Colorado,United States,3127959
 Private Call,KK0DJ Dennis,Mason City,Iowa,United States,3119019
 Private Call,N4VFR Darren,Atlantic Beach,Florida,United States,3176710
 Private Call,W8BPD Brian,Warren,Michigan,United States,3213910
-Private Call,N2KGC Brian,Cooperstown,New York,United States,3186680
 Private Call,KI5GBQ Jacob R,Kingfisher,Oklahoma,United States,3167732
 Private Call,K7YRC Robert,Colbert,Washington,United States,3153177
 Private Call,KF0KUA Robert,Springfield,Missouri,United States,3195746
@@ -188388,7 +188493,7 @@ Private Call,KQ4FPO Len,Humboldt,Tennessee,United States,3197467
 Private Call,K9SX Ronald,Carlock,Illinois,United States,3199140
 Private Call,KH6IHB Nathan M,College Place,Washington,United States,3181926
 Private Call,KD4ACG Jason,Hudson,Florida,United States,3112270
-Private Call,KJ5LMZ Daren,Hubbard,Texas,United States,3217682
+Private Call,N5WIN Daren,Hubbard,Texas,United States,3217682
 Private Call,N4BMH Brian,Rocky Mount,Virginia,United States,3220070
 Private Call,W0CI Jerry L,Urbandale,Iowa,United States,3119313
 Private Call,AB1BA Andrew B,Monsey,New York,United States,3162042
@@ -189399,7 +189504,7 @@ Private Call,KB1SL Leslie J,Prospect,Connecticut,United States,3109517
 Private Call,KR4HZP James,Rocky Mount,Virginia,United States,3146973
 Private Call,KG4AXO James,Colonial Heights,Virginia,United States,3170542
 Private Call,KB0SQW Larry A,Harwood,Missouri,United States,3129487
-Private Call,W8UM University,Ann Arbor,Michigan,United States,3102896
+Private Call,W8UM Univ - Michigan,Ann Arbor,Michigan,United States,3102896
 Private Call,KD4UKN Danny J,Louisville,Kentucky,United States,3121226
 Private Call,KE4VAN Evan,Delray Beach,Florida,United States,3157951
 Private Call,W2NNU James W W,Brookhaven,Mississippi,United States,3141474
@@ -190066,7 +190171,6 @@ Private Call,AF5SN Bradley,Diamondhead,Mississippi,United States,3210684
 Private Call,K5CS Charles A,Russellville,Arkansas,United States,3105496
 Private Call,K2UFH John,Sussex,New Jersey,United States,3210052
 Private Call,WB8RMS Reynaldo,South San Francisco,California,United States,3185408
-Private Call,W2VIB Robert,LANOKA HARBOR,New Jersey,United States,3134392
 Private Call,KN4VG Michael,summerfield,Florida,United States,3112832
 Private Call,N8ZMT John,Pewamo,Michigan,United States,3215984
 Private Call,WA1JRC Jeremy,Falmouth,Massachusetts,United States,3166966
@@ -199895,107 +199999,3 @@ Private Call,KC3KFF Rosanne I,Glen Burnie,Maryland,United States,3101789
 Private Call,K8TE Bill,Rio Rancho,New Mexico,United States,3101790
 Private Call,KR4GQF Jack,Cantonment,Florida,United States,3101791
 Private Call,KB4MG Martin G,Marietta,Georgia,United States,3101792
-Private Call,AC5OY Jesse,Denison,Texas,United States,3101793
-Private Call,KE0OHH Robert D,Creede,Colorado,United States,3101794
-Private Call,KI7UNJ Casey,Bend,Oregon,United States,3101795
-Private Call,WE6DX Billy,San Diego,California,United States,3101796
-Private Call,NH7IT Van R,Honolulu,Hawaii,United States,3101797
-Private Call,NJ2BK Bruce F,Secaucus,New Jersey,United States,3101798
-Private Call,N5LED Dennis A,Mt Vernon,Ohio,United States,3101799
-Private Call,N5OXV James L,Ector,Texas,United States,3101800
-Private Call,KC5KWR Kathy E,Savoy,Texas,United States,3101801
-Private Call,W4CEC Chris,Raleigh,North Carolina,United States,3101802
-Private Call,K4HF Charles R,Raleigh,North Carolina,United States,3101803
-Private Call,K1EEA Eric E,Billerica,Massachusetts,United States,3101804
-Private Call,W4RRN Warren F,Prattville,Alabama,United States,3101806
-Private Call,N5SDH Samuel D,West Monroe,Louisiana,United States,3101808
-Private Call,N2IK Walter K,Syracuse,New York,United States,3101809
-Private Call,K0AVI Arnold V Intal,Bismarck,North Dakota,United States,3101810
-Private Call,KY5Q William C,Albuquerque,New Mexico,United States,3101811
-Private Call,KY5Q William C,Albuquerque,New Mexico,United States,3101814
-Private Call,W3AXL Pat,Chicago,Illinois,United States,3101815
-Private Call,KR4GYX Dakota,Eight Mile,Alabama,United States,3101816
-Private Call,WM5O Sebastian A,Walnut Ridge,Arkansas,United States,3101817
-Private Call,N6TBA Jimmy A,Poway,California,United States,3101818
-Private Call,W3DKL David E,Bethesda,Maryland,United States,3101819
-Private Call,AB9GO Randy E,Milan,Indiana,United States,3101820
-Private Call,KK4JXD Jaychym A,Palm Harbor,Florida,United States,3101822
-Private Call,KI8IK Michael,Oro Valley,Arizona,United States,3101823
-Private Call,KC0ZLK Adam,Collbran,Colorado,United States,3101824
-Private Call,KD9LCG Jason,Chicago,Illinois,United States,3101825
-Private Call,KN4LUK Marc D,Port Orange,Florida,United States,3101826
-Private Call,N8JUQ Robert K,,Michigan,United States,3101827
-Private Call,KE5DUO David B,Plano,Texas,United States,3101828
-Private Call,KG5VAT Steven J,La Place,Louisiana,United States,3101829
-Private Call,KI4EZL Steven C,Fayetteville,North Carolina,United States,3101830
-Private Call,NE5RO James W,Allen,Texas,United States,3101831
-Private Call,W9CEO Matthew,Las Vegas,Nevada,United States,3101832
-Private Call,KE5KQU Matt E,Aledo,Texas,United States,3101833
-Private Call,KC1YKC Allison,Ipswich,Massachusetts,United States,3101834
-Private Call,KK1VT Thomas,Middlebury,Vermont,United States,3101835
-Private Call,KI4EZK Charlotte A,Fayetteville,North Carolina,United States,3101836
-Private Call,KI4EZL Steven C,Fayetteville,North Carolina,United States,3101837
-Private Call,K3HEX Alex R,Crofton,Maryland,United States,3101838
-Private Call,N4LKZ Patrick D,Lehigh Acres,Florida,United States,3101839
-Private Call,KO4NDP Jason,Canton,Georgia,United States,3101841
-Private Call,N5KOO Robert L,Baton Rouge,Louisiana,United States,3101842
-Private Call,KG5YBA Alan J,Jefferson,Texas,United States,3101843
-Private Call,WA8LPI Gary E,Romeo,Michigan,United States,3101844
-Private Call,K4IO James B,Mansfield,Georgia,United States,3101845
-Private Call,KO6EQN Gabe,Santa Clara,California,United States,3101846
-Private Call,KK4NUB Louis C,Winston Salem,North Carolina,United States,3101847
-Private Call,KC1ATO Jason J,Topsham,Maine,United States,3101848
-Private Call,K2PZB Javier,Ocala,Florida,United States,3101849
-Private Call,K2PZB Javier,Ocala,Florida,United States,3101850
-Private Call,KM6FHA Stephen E,Rohnert Park,California,United States,3101851
-Private Call,N4VSP Steve,Lynn Haven,Florida,United States,3101852
-Private Call,KE4QID Timothy,Florence,Alabama,United States,3101853
-Private Call,K8MSH Mark S,Youngstown,Ohio,United States,3101854
-Private Call,KE7EXS David,Glendale,Arizona,United States,3101855
-Private Call,KR4GYC Clete,Pensacola,Florida,United States,3101856
-Private Call,WA7SN Stephen D,Lacey,Washington,United States,3101857
-Private Call,KE0IGH Arie M,Broomfield,Colorado,United States,3101858
-Private Call,W3DKL David E,Bethesda,Maryland,United States,3101859
-Private Call,KM4SMV Marvin Y,Valdosta,Georgia,United States,3101861
-Private Call,KE0MVS Richard E,Olathe,Colorado,United States,3101864
-Private Call,KE2DTZ Benjamin,Washington,New Jersey,United States,3101865
-Private Call,K8UKE Edward,Ivins,Utah,United States,3101866
-Private Call,KE0CDQ Karen,Baltimore,Maryland,United States,3101867
-Private Call,KM7BTO Mark,Grand Ronde,Oregon,United States,3101868
-Private Call,KG5ZUY Walter W,Springtown,Texas,United States,3101870
-Private Call,KA9NAQ David,Flanagan,Illinois,United States,3101871
-Private Call,KM6QFA Michael,Arbuckle,California,United States,3101872
-Private Call,N3GOT William W,Newport,Vermont,United States,3101873
-Private Call,KC8JC James C,Kent,Ohio,United States,3101875
-Private Call,W1NEK Stephen D,St Johnsbury,Vermont,United States,3101876
-Private Call,AC1DT Benjamin J,South Burlington,Vermont,United States,3101877
-Private Call,K4WTV John F,Myrtle Beach,South Carolina,United States,3101878
-Private Call,WR7J Paul,Myrtle Beach,South Carolina,United States,3101879
-Private Call,WW2JS Jonathan,Cherry Valley,Massachusetts,United States,3101880
-Private Call,K5RPG James,Edmond,Oklahoma,United States,3101881
-Private Call,KB5YQT Dan,Baton Rouge,Louisiana,United States,3101882
-Private Call,N2WH Bill,Boonton,New Jersey,United States,3101883
-Private Call,K4WNY Ronald S,Millington,Tennessee,United States,3101885
-Private Call,KG5YCU Richard,Houston,Texas,United States,3101886
-Private Call,N5BS Richard M,San Antonio,Texas,United States,3101887
-Private Call,N0FXE Jason,Lakewood,Colorado,United States,3101888
-Private Call,W7KMM Kelvin,Lewiston,Idaho,United States,3101889
-Private Call,AG7BI Mauro,Kingston,Washington,United States,3101893
-Private Call,KE8DLJ Ralph E,Beloit,Ohio,United States,3101894
-Private Call,AB1OC Fred,Hollis,New Hampshire,United States,3101895
-Private Call,KI5BQE Bennie K,Mcalester,Oklahoma,United States,3101896
-Private Call,W0ECO Travis,Hutchinson,Kansas,United States,3101897
-Private Call,W0ECO Travis,Hutchinson,Kansas,United States,3101898
-Private Call,K6CLU Xiaofeng C,Chino Hills,California,United States,3101899
-Private Call,N0SZ Rocky Mountain Club,Lakewood,Colorado,United States,3101900
-Private Call,N0SZ Rocky Mountain Club,Lakewood,Colorado,United States,3101901
-Private Call,N0SZ Rocky Mountain Club,Lakewood,Colorado,United States,3101902
-Private Call,N0SZ Rocky Mountain Club,Lakewood,Colorado,United States,3101903
-Private Call,N0SZ Rocky Mountain Club,Lakewood,Colorado,United States,3101904
-Private Call,N0SZ Rocky Mountain Club,Lakewood,Colorado,United States,3101905
-Private Call,N0SZ Rocky Mountain Club,Lakewood,Colorado,United States,3101906
-Private Call,N0SZ Rocky Mountain Club,Lakewood,Colorado,United States,3101907
-Private Call,N0SZ Rocky Mountain Club,Lakewood,Colorado,United States,3101908
-Private Call,N0SZ Rocky Mountain Club,Lakewood,Colorado,United States,3101909
-Private Call,N0SZ Rocky Mountain Club,Lakewood,Colorado,United States,3101910
-Private Call,N0SZ Rocky Mountain Club,Lakewood,Colorado,United States,3101911
