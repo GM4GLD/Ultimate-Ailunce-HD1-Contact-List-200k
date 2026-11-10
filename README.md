@@ -28,39 +28,39 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Andorra                        |           22 |           16 |           38 |
 | Anguilla                       |            1 |            2 |            3 |
 | Antigua and Barbuda            |            0 |            2 |            2 |
-| Argentina Republic             |          841 |         1651 |         2492 |
+| Argentina Republic             |          844 |         1648 |         2492 |
 | Armenia                        |            1 |            6 |            7 |
 | Aruba                          |            7 |           13 |           20 |
 | Ascension Island               |            0 |            1 |            1 |
-| Australia                      |          861 |         4132 |         4993 |
-| Austria                        |          966 |         1736 |         2702 |
+| Australia                      |          867 |         4126 |         4993 |
+| Austria                        |          967 |         1735 |         2702 |
 | Azerbaijan                     |            1 |            6 |            7 |
 | Bahamas                        |            2 |           10 |           12 |
 | Bahrain                        |           11 |           30 |           41 |
 | Bangladesh                     |           37 |          136 |          173 |
 | Barbados                       |            6 |           24 |           30 |
 | Belarus                        |           87 |          148 |          235 |
-| Belgium                        |          832 |         1198 |         2030 |
+| Belgium                        |          834 |         1196 |         2030 |
 | Belize                         |            0 |           20 |           20 |
 | Bermuda                        |            2 |            5 |            7 |
 | Bolivia                        |            3 |            0 |            3 |
 | Bonaire                        |            2 |            8 |           10 |
-| Bosnia and Hercegovina         |          277 |          316 |          593 |
+| Bosnia and Hercegovina         |          278 |          315 |          593 |
 | Botswana                       |            0 |            1 |            1 |
-| Brazil                         |         2275 |         4961 |         7236 |
+| Brazil                         |         2279 |         4957 |         7236 |
 | British Virgin Islands         |            0 |            4 |            4 |
 | Brunei Darussalam              |            1 |            4 |            5 |
 | Bulgaria                       |          292 |          571 |          863 |
 | Burkina Faso                   |            1 |            1 |            2 |
 | Cameroon                       |            2 |            0 |            2 |
-| Canada                         |         2740 |         3739 |         6479 |
+| Canada                         |         2745 |         3734 |         6479 |
 | Cape Verde                     |            2 |            3 |            5 |
 | Cayman Islands                 |            2 |            5 |            7 |
 | Central African Republic       |            0 |            2 |            2 |
 | Chad                           |            0 |            2 |            2 |
-| Chile                          |          763 |         2945 |         3708 |
-| China                          |         4492 |        12096 |        16588 |
-| Colombia                       |          263 |          634 |          897 |
+| Chile                          |          766 |         2942 |         3708 |
+| China                          |         4506 |        12082 |        16588 |
+| Colombia                       |          264 |          633 |          897 |
 | Cook Islands                   |            0 |            1 |            1 |
 | Corsica                        |           11 |           15 |           26 |
 | Costa Rica                     |          119 |          137 |          256 |
@@ -68,7 +68,7 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Cuba                           |           19 |          104 |          123 |
 | Curacao                        |            8 |           20 |           28 |
 | Cyprus                         |           57 |           52 |          109 |
-| Czech Republic                 |          530 |          491 |         1021 |
+| Czech Republic                 |          531 |          490 |         1021 |
 | Denmark                        |          260 |         1534 |         1794 |
 | Djibouti                       |            0 |            1 |            1 |
 | Dominica                       |            5 |           27 |           32 |
@@ -81,10 +81,10 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Falkland Islands               |            3 |            0 |            3 |
 | Faroe Islands                  |            2 |            4 |            6 |
 | Finland                        |          789 |          842 |         1631 |
-| France                         |         1621 |         1935 |         3556 |
+| France                         |         1623 |         1933 |         3556 |
 | French Guiana                  |            1 |            2 |            3 |
 | Georgia                        |            7 |           23 |           30 |
-| Germany                        |         9321 |         9094 |        18415 |
+| Germany                        |         9329 |         9086 |        18415 |
 | Ghana                          |            3 |            3 |            6 |
 | Gibraltar                      |            5 |            5 |           10 |
 | Greece                         |          769 |         1712 |         2481 |
@@ -100,21 +100,21 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Hong Kong                      |          111 |          271 |          382 |
 | Hungary                        |          515 |          391 |          906 |
 | Iceland                        |           20 |           18 |           38 |
-| India                          |          293 |         1084 |         1377 |
-| Indonesia                      |          593 |         1439 |         2032 |
+| India                          |          297 |         1080 |         1377 |
+| Indonesia                      |          597 |         1435 |         2032 |
 | Iran                           |            1 |            4 |            5 |
 | Iraq                           |            0 |            7 |            7 |
 | Ireland                        |          141 |          314 |          455 |
 | Israel                         |          112 |          355 |          467 |
-| Italy                          |         6771 |         6420 |        13191 |
+| Italy                          |         6777 |         6414 |        13191 |
 | Ivory Coast                    |            0 |            7 |            7 |
 | Jamaica                        |            9 |            7 |           16 |
-| Japan                          |          272 |         2957 |         3229 |
+| Japan                          |          273 |         2956 |         3229 |
 | Jordan                         |            1 |            6 |            7 |
 | Kazakhstan                     |           85 |          119 |          204 |
 | Kenya                          |            1 |            5 |            6 |
 | Kiribati                       |            0 |            1 |            1 |
-| Korea Republic of              |          575 |         1933 |         2508 |
+| Korea Republic of              |          577 |         1931 |         2508 |
 | Kosovo                         |            0 |            2 |            2 |
 | Kuwait                         |           13 |           40 |           53 |
 | Kyrgyzstan                     |            3 |            2 |            5 |
@@ -125,7 +125,7 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Liberia                        |            0 |            2 |            2 |
 | Liechtenstein                  |            6 |            9 |           15 |
 | Lithuania                      |          115 |           64 |          179 |
-| Luxemburg                      |          119 |          138 |          257 |
+| Luxemburg                      |          120 |          137 |          257 |
 | Macao                          |            2 |            1 |            3 |
 | Macedonia                      |          116 |           29 |          145 |
 | Madagascar                     |            0 |            3 |            3 |
@@ -136,24 +136,24 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Martinique                     |            5 |           11 |           16 |
 | Mauretania                     |            0 |            1 |            1 |
 | Mauritius                      |            2 |            6 |            8 |
-| Mexico                         |          329 |          688 |         1017 |
+| Mexico                         |          331 |          686 |         1017 |
 | Micronesia                     |            0 |            4 |            4 |
 | Moldova                        |           35 |           26 |           61 |
 | Monaco                         |            2 |            3 |            5 |
 | Mongolia                       |            0 |            3 |            3 |
 | Montenegro                     |           21 |           39 |           60 |
 | Montserrat                     |            0 |            2 |            2 |
-| Morocco                        |           28 |          109 |          137 |
+| Morocco                        |           29 |          108 |          137 |
 | Mozambique                     |            0 |            7 |            7 |
 | México                         |            0 |            1 |            1 |
 | Namibia                        |            1 |           10 |           11 |
 | Nepal                          |            1 |            5 |            6 |
-| Netherlands                    |         1620 |         1862 |         3482 |
+| Netherlands                    |         1623 |         1859 |         3482 |
 | New Caledonia                  |            1 |            9 |           10 |
 | New Zealand                    |          241 |         1224 |         1465 |
 | Nicaragua                      |            1 |           20 |           21 |
 | Nigeria                        |            0 |            3 |            3 |
-| Norway                         |          733 |          761 |         1494 |
+| Norway                         |          734 |          760 |         1494 |
 | Oman                           |           20 |          150 |          170 |
 | Pakistan                       |           15 |           28 |           43 |
 | Palau                          |            1 |            1 |            2 |
@@ -162,13 +162,13 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Paraguay                       |           17 |           38 |           55 |
 | Peru                           |           38 |          125 |          163 |
 | Philippines                    |          231 |         1904 |         2135 |
-| Poland                         |         3381 |         2340 |         5721 |
-| Portugal                       |         1000 |          740 |         1740 |
-| Puerto Rico                    |          179 |          675 |          854 |
+| Poland                         |         3383 |         2338 |         5721 |
+| Portugal                       |         1001 |          739 |         1740 |
+| Puerto Rico                    |          180 |          674 |          854 |
 | Qatar                          |            3 |           19 |           22 |
 | Reunion                        |           21 |           57 |           78 |
-| Romania                        |          563 |          719 |         1282 |
-| Russia                         |         2157 |         1439 |         3596 |
+| Romania                        |          564 |          718 |         1282 |
+| Russia                         |         2160 |         1436 |         3596 |
 | Samoa                          |            0 |            1 |            1 |
 | San Marino                     |           19 |           13 |           32 |
 | Saudi Arabia                   |           11 |           24 |           35 |
@@ -176,11 +176,11 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Serbia                         |          507 |          352 |          859 |
 | Seychelles                     |            0 |            1 |            1 |
 | Singapore                      |           18 |           62 |           80 |
-| Slovakia                       |          182 |          160 |          342 |
+| Slovakia                       |          183 |          159 |          342 |
 | Slovenia                       |          688 |          402 |         1090 |
-| South Africa                   |          209 |          641 |          850 |
-| Spain                          |         6353 |         4244 |        10597 |
-| Sri Lanka                      |            2 |           41 |           43 |
+| South Africa                   |          212 |          638 |          850 |
+| Spain                          |         6358 |         4239 |        10597 |
+| Sri Lanka                      |            3 |           40 |           43 |
 | St. Kitts and Nevis            |            3 |            7 |           10 |
 | St. Lucia                      |            4 |           11 |           15 |
 | St. Vincent and the Grenadines |            2 |           11 |           13 |
@@ -188,19 +188,19 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Suriname                       |            1 |            1 |            2 |
 | Swasiland                      |            0 |            2 |            2 |
 | Sweden                         |          992 |         1609 |         2601 |
-| Switzerland                    |          998 |         1154 |         2152 |
+| Switzerland                    |          999 |         1153 |         2152 |
 | Taiwan                         |          148 |          566 |          714 |
 | Tanzania                       |            0 |            2 |            2 |
 | Thailand                       |          334 |         1974 |         2308 |
 | Togo                           |            0 |            1 |            1 |
 | Tonga                          |            0 |            1 |            1 |
 | Trinidad and Tobago            |           28 |          109 |          137 |
-| Turkiye                        |         3126 |         5506 |         8632 |
+| Turkiye                        |         3131 |         5501 |         8632 |
 | Türkiye                        |            8 |            8 |           16 |
 | U.S. Virgin Islands            |           10 |           60 |           70 |
 | Ukraine                        |          511 |          463 |          974 |
 | United Arab Emirates           |           17 |           90 |          107 |
-| United Kingdom                 |         5941 |        13259 |        19200 |
+| United Kingdom                 |         5946 |        13254 |        19200 |
 | United States                  |        16214 |            0 |        16214 |
 | Uruguay                        |          145 |          340 |          485 |
 | Uzbekistan                     |            9 |            8 |           17 |
@@ -210,7 +210,7 @@ The Ailunce HD1 is a versatile digital radio that allows easy communication with
 | Yemen                          |            0 |            1 |            1 |
 | Zambia                         |            1 |            2 |            3 |
 | Zimbabwe                       |            0 |            3 |            3 |
-| Totals                         |        86597 |       113403 |       200000 |
+| Totals                         |        86702 |       113298 |       200000 |
 
 
 ## Usage
